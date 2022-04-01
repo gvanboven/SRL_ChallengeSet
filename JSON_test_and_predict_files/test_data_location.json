@@ -1,0 +1,5702 @@
+[
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Italy"
+        },
+        "sentence": "The deal was made in Italy",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Norway"
+        },
+        "sentence": "The deal was made in Norway",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Slovakia"
+        },
+        "sentence": "The deal was made in Slovakia",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Madagascar"
+        },
+        "sentence": "The deal was made in Madagascar",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Japan"
+        },
+        "sentence": "The deal was made in Japan",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "East Timor"
+        },
+        "sentence": "The deal was made in East Timor",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Eswatini"
+        },
+        "sentence": "The deal was made in Eswatini",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "East Timor"
+        },
+        "sentence": "The deal was made in East Timor",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Cape Verde"
+        },
+        "sentence": "The deal was made in Cape Verde",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Slovakia"
+        },
+        "sentence": "The deal was made in Slovakia",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Cameroon"
+        },
+        "sentence": "The deal was made in Cameroon",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Haiti"
+        },
+        "sentence": "The deal was made in Haiti",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Hungary"
+        },
+        "sentence": "The deal was made in Hungary",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Vatican City"
+        },
+        "sentence": "The deal was made in Vatican City",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Italy"
+        },
+        "sentence": "The deal was made in Italy",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Equatorial Guinea"
+        },
+        "sentence": "The deal was made in Equatorial Guinea",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Oman"
+        },
+        "sentence": "The deal was made in Oman",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Vatican City"
+        },
+        "sentence": "The deal was made in Vatican City",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Mauritius"
+        },
+        "sentence": "The deal was made in Mauritius",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Eritrea"
+        },
+        "sentence": "The deal was made in Eritrea",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Turkmenistan"
+        },
+        "sentence": "The deal was made in Turkmenistan",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Egypt"
+        },
+        "sentence": "The deal was made in Egypt",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Azerbaijan"
+        },
+        "sentence": "The deal was made in Azerbaijan",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Finland"
+        },
+        "sentence": "The deal was made in Finland",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Somalia"
+        },
+        "sentence": "The deal was made in Somalia",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Japan"
+        },
+        "sentence": "The deal was made in Japan",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Vanuatu"
+        },
+        "sentence": "The deal was made in Vanuatu",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Gabon"
+        },
+        "sentence": "The deal was made in Gabon",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Egypt"
+        },
+        "sentence": "The deal was made in Egypt",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Mexico"
+        },
+        "sentence": "The deal was made in Mexico",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Barbados"
+        },
+        "sentence": "The deal was made in Barbados",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "The Bahamas"
+        },
+        "sentence": "The deal was made in The Bahamas",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Libya"
+        },
+        "sentence": "The deal was made in Libya",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Iran"
+        },
+        "sentence": "The deal was made in Iran",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Peru"
+        },
+        "sentence": "The deal was made in Peru",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Czech Republic"
+        },
+        "sentence": "The deal was made in Czech Republic",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Marshall Islands"
+        },
+        "sentence": "The deal was made in Marshall Islands",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Russia"
+        },
+        "sentence": "The deal was made in Russia",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Finland"
+        },
+        "sentence": "The deal was made in Finland",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Russia"
+        },
+        "sentence": "The deal was made in Russia",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Kazakhstan"
+        },
+        "sentence": "The deal was made in Kazakhstan",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Colombia"
+        },
+        "sentence": "The deal was made in Colombia",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "United Arab Emirates"
+        },
+        "sentence": "The deal was made in United Arab Emirates",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Mauritania"
+        },
+        "sentence": "The deal was made in Mauritania",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "United Arab Emirates"
+        },
+        "sentence": "The deal was made in United Arab Emirates",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Romania"
+        },
+        "sentence": "The deal was made in Romania",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Honduras"
+        },
+        "sentence": "The deal was made in Honduras",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "New Zealand"
+        },
+        "sentence": "The deal was made in New Zealand",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Luxembourg"
+        },
+        "sentence": "The deal was made in Luxembourg",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Seychelles"
+        },
+        "sentence": "The deal was made in Seychelles",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Malta"
+        },
+        "sentence": "The deal was made in Malta",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Senegal"
+        },
+        "sentence": "The deal was made in Senegal",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Ecuador"
+        },
+        "sentence": "The deal was made in Ecuador",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Israel"
+        },
+        "sentence": "The deal was made in Israel",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Luxembourg"
+        },
+        "sentence": "The deal was made in Luxembourg",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Senegal"
+        },
+        "sentence": "The deal was made in Senegal",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Cambodia"
+        },
+        "sentence": "The deal was made in Cambodia",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Yemen"
+        },
+        "sentence": "The deal was made in Yemen",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Andorra"
+        },
+        "sentence": "The deal was made in Andorra",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Syria"
+        },
+        "sentence": "The deal was made in Syria",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Dominica"
+        },
+        "sentence": "The deal was made in Dominica",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Ghana"
+        },
+        "sentence": "The deal was made in Ghana",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Montenegro"
+        },
+        "sentence": "The deal was made in Montenegro",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Iceland"
+        },
+        "sentence": "The deal was made in Iceland",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "The Bahamas"
+        },
+        "sentence": "The deal was made in The Bahamas",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "The Gambia"
+        },
+        "sentence": "The deal was made in The Gambia",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Lesotho"
+        },
+        "sentence": "The deal was made in Lesotho",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Palau"
+        },
+        "sentence": "The deal was made in Palau",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Australia"
+        },
+        "sentence": "The deal was made in Australia",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Romania"
+        },
+        "sentence": "The deal was made in Romania",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "India"
+        },
+        "sentence": "The deal was made in India",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Dominica"
+        },
+        "sentence": "The deal was made in Dominica",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Mauritania"
+        },
+        "sentence": "The deal was made in Mauritania",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Estonia"
+        },
+        "sentence": "The deal was made in Estonia",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Slovenia"
+        },
+        "sentence": "The deal was made in Slovenia",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Kiribati"
+        },
+        "sentence": "The deal was made in Kiribati",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Uruguay"
+        },
+        "sentence": "The deal was made in Uruguay",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Laos"
+        },
+        "sentence": "The deal was made in Laos",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Honduras"
+        },
+        "sentence": "The deal was made in Honduras",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Ukraine"
+        },
+        "sentence": "The deal was made in Ukraine",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Poland"
+        },
+        "sentence": "The deal was made in Poland",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Somalia"
+        },
+        "sentence": "The deal was made in Somalia",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Spain"
+        },
+        "sentence": "The deal was made in Spain",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Bahrain"
+        },
+        "sentence": "The deal was made in Bahrain",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Austria"
+        },
+        "sentence": "The deal was made in Austria",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Sierra Leone"
+        },
+        "sentence": "The deal was made in Sierra Leone",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Monaco"
+        },
+        "sentence": "The deal was made in Monaco",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Venezuela"
+        },
+        "sentence": "The deal was made in Venezuela",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "United Arab Emirates"
+        },
+        "sentence": "The deal was made in United Arab Emirates",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Senegal"
+        },
+        "sentence": "The deal was made in Senegal",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Palau"
+        },
+        "sentence": "The deal was made in Palau",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Denmark"
+        },
+        "sentence": "The deal was made in Denmark",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Ethiopia"
+        },
+        "sentence": "The deal was made in Ethiopia",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Fiji"
+        },
+        "sentence": "The deal was made in Fiji",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Syria"
+        },
+        "sentence": "The deal was made in Syria",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "the Netherlands"
+        },
+        "sentence": "The deal was made in the Netherlands",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Papua New Guinea"
+        },
+        "sentence": "The deal was made in Papua New Guinea",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Belgium"
+        },
+        "sentence": "The deal was made in Belgium",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Brunei"
+        },
+        "sentence": "The deal was made in Brunei",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Bolivia"
+        },
+        "sentence": "The deal was made in Bolivia",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Honduras"
+        },
+        "sentence": "Honduras made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Vanuatu"
+        },
+        "sentence": "Vanuatu made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Tuvalu"
+        },
+        "sentence": "Tuvalu made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Kenya"
+        },
+        "sentence": "Kenya made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Zambia"
+        },
+        "sentence": "Zambia made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Uzbekistan"
+        },
+        "sentence": "Uzbekistan made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Argentina"
+        },
+        "sentence": "Argentina made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Ethiopia"
+        },
+        "sentence": "Ethiopia made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Paraguay"
+        },
+        "sentence": "Paraguay made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Belgium"
+        },
+        "sentence": "Belgium made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Nauru"
+        },
+        "sentence": "Nauru made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Trinidad and Tobago"
+        },
+        "sentence": "Trinidad and Tobago made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Denmark"
+        },
+        "sentence": "Denmark made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Kiribati"
+        },
+        "sentence": "Kiribati made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Laos"
+        },
+        "sentence": "Laos made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Cuba"
+        },
+        "sentence": "Cuba made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Italy"
+        },
+        "sentence": "Italy made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Malawi"
+        },
+        "sentence": "Malawi made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Myanmar"
+        },
+        "sentence": "Myanmar made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Czech Republic"
+        },
+        "sentence": "Czech Republic made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Romania"
+        },
+        "sentence": "Romania made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Federated States of Micronesia"
+        },
+        "sentence": "Federated States of Micronesia made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Montenegro"
+        },
+        "sentence": "Montenegro made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Tonga"
+        },
+        "sentence": "Tonga made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Chile"
+        },
+        "sentence": "Chile made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Cape Verde"
+        },
+        "sentence": "Cape Verde made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Singapore"
+        },
+        "sentence": "Singapore made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Tunisia"
+        },
+        "sentence": "Tunisia made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Angola"
+        },
+        "sentence": "Angola made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Niger"
+        },
+        "sentence": "Niger made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Monaco"
+        },
+        "sentence": "Monaco made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Croatia"
+        },
+        "sentence": "Croatia made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Tajikistan"
+        },
+        "sentence": "Tajikistan made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Spain"
+        },
+        "sentence": "Spain made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "South Korea"
+        },
+        "sentence": "South Korea made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Ukraine"
+        },
+        "sentence": "Ukraine made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Mauritius"
+        },
+        "sentence": "Mauritius made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Bosnia and Herzegovina"
+        },
+        "sentence": "Bosnia and Herzegovina made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Japan"
+        },
+        "sentence": "Japan made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Angola"
+        },
+        "sentence": "Angola made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Eritrea"
+        },
+        "sentence": "Eritrea made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Azerbaijan"
+        },
+        "sentence": "Azerbaijan made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Rwanda"
+        },
+        "sentence": "Rwanda made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Togo"
+        },
+        "sentence": "Togo made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Austria"
+        },
+        "sentence": "Austria made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Ethiopia"
+        },
+        "sentence": "Ethiopia made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Bosnia and Herzegovina"
+        },
+        "sentence": "Bosnia and Herzegovina made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Philippines"
+        },
+        "sentence": "Philippines made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Honduras"
+        },
+        "sentence": "Honduras made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Suriname"
+        },
+        "sentence": "Suriname made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Lesotho"
+        },
+        "sentence": "Lesotho made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Guatemala"
+        },
+        "sentence": "Guatemala made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Uganda"
+        },
+        "sentence": "Uganda made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Spain"
+        },
+        "sentence": "Spain made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Federated States of Micronesia"
+        },
+        "sentence": "Federated States of Micronesia made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Turkey"
+        },
+        "sentence": "Turkey made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Singapore"
+        },
+        "sentence": "Singapore made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Federated States of Micronesia"
+        },
+        "sentence": "Federated States of Micronesia made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Tunisia"
+        },
+        "sentence": "Tunisia made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Tunisia"
+        },
+        "sentence": "Tunisia made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Chad"
+        },
+        "sentence": "Chad made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Andorra"
+        },
+        "sentence": "Andorra made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Syria"
+        },
+        "sentence": "Syria made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Malaysia"
+        },
+        "sentence": "Malaysia made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Turkey"
+        },
+        "sentence": "Turkey made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Denmark"
+        },
+        "sentence": "Denmark made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Namibia"
+        },
+        "sentence": "Namibia made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Sudan"
+        },
+        "sentence": "Sudan made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Philippines"
+        },
+        "sentence": "Philippines made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Iran"
+        },
+        "sentence": "Iran made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Kenya"
+        },
+        "sentence": "Kenya made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Chile"
+        },
+        "sentence": "Chile made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Libya"
+        },
+        "sentence": "Libya made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Qatar"
+        },
+        "sentence": "Qatar made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Serbia"
+        },
+        "sentence": "Serbia made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Greece"
+        },
+        "sentence": "Greece made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Palau"
+        },
+        "sentence": "Palau made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "El Salvador"
+        },
+        "sentence": "El Salvador made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Orange Free State"
+        },
+        "sentence": "Orange Free State made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Cape Verde"
+        },
+        "sentence": "Cape Verde made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Jordan"
+        },
+        "sentence": "Jordan made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Montenegro"
+        },
+        "sentence": "Montenegro made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Bahrain"
+        },
+        "sentence": "Bahrain made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Ethiopia"
+        },
+        "sentence": "Ethiopia made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Poland"
+        },
+        "sentence": "Poland made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Cameroon"
+        },
+        "sentence": "Cameroon made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Sierra Leone"
+        },
+        "sentence": "Sierra Leone made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Serbia"
+        },
+        "sentence": "Serbia made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "S\u00e3o Tom\u00e9 and Pr\u00edncipe"
+        },
+        "sentence": "S\u00e3o Tom\u00e9 and Pr\u00edncipe made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Lebanon"
+        },
+        "sentence": "Lebanon made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Norway"
+        },
+        "sentence": "Norway made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Ghana"
+        },
+        "sentence": "Ghana made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Liberia"
+        },
+        "sentence": "Liberia made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Laos"
+        },
+        "sentence": "Laos made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Solomon Islands"
+        },
+        "sentence": "Solomon Islands made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Panama"
+        },
+        "sentence": "Panama made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Togo"
+        },
+        "sentence": "Togo made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Angola"
+        },
+        "sentence": "Angola made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Mali"
+        },
+        "sentence": "Mali made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Palau"
+        },
+        "sentence": "Palau made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Jacksonville"
+        },
+        "sentence": "Jacksonville made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Lexington"
+        },
+        "sentence": "Lexington made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Norfolk"
+        },
+        "sentence": "Norfolk made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Henderson"
+        },
+        "sentence": "Henderson made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Glendale"
+        },
+        "sentence": "Glendale made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Atlanta"
+        },
+        "sentence": "Atlanta made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Charlotte"
+        },
+        "sentence": "Charlotte made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "San Diego"
+        },
+        "sentence": "San Diego made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Minneapolis"
+        },
+        "sentence": "Minneapolis made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Louisville"
+        },
+        "sentence": "Louisville made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Phoenix"
+        },
+        "sentence": "Phoenix made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Portland"
+        },
+        "sentence": "Portland made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Denver"
+        },
+        "sentence": "Denver made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Corpus Christi"
+        },
+        "sentence": "Corpus Christi made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Scottsdale"
+        },
+        "sentence": "Scottsdale made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Oklahoma City"
+        },
+        "sentence": "Oklahoma City made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Nashville"
+        },
+        "sentence": "Nashville made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Las Vegas"
+        },
+        "sentence": "Las Vegas made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Durham"
+        },
+        "sentence": "Durham made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Reno"
+        },
+        "sentence": "Reno made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Chula Vista"
+        },
+        "sentence": "Chula Vista made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Philadelphia"
+        },
+        "sentence": "Philadelphia made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Stockton"
+        },
+        "sentence": "Stockton made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Boston"
+        },
+        "sentence": "Boston made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Lubbock"
+        },
+        "sentence": "Lubbock made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Duval County"
+        },
+        "sentence": "Duval County made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Baltimore"
+        },
+        "sentence": "Baltimore made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Baltimore"
+        },
+        "sentence": "Baltimore made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Norfolk"
+        },
+        "sentence": "Norfolk made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Houston"
+        },
+        "sentence": "Houston made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Riverside"
+        },
+        "sentence": "Riverside made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Cleveland"
+        },
+        "sentence": "Cleveland made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Baton Rouge"
+        },
+        "sentence": "Baton Rouge made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Fort Worth"
+        },
+        "sentence": "Fort Worth made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Hialeah"
+        },
+        "sentence": "Hialeah made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Reno"
+        },
+        "sentence": "Reno made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Corpus Christi"
+        },
+        "sentence": "Corpus Christi made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Chesapeake"
+        },
+        "sentence": "Chesapeake made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "North Las Vegas"
+        },
+        "sentence": "North Las Vegas made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Aurora"
+        },
+        "sentence": "Aurora made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Albuquerque"
+        },
+        "sentence": "Albuquerque made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Lubbock"
+        },
+        "sentence": "Lubbock made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Garland"
+        },
+        "sentence": "Garland made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "New York City"
+        },
+        "sentence": "New York City made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Anaheim"
+        },
+        "sentence": "Anaheim made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Irvine"
+        },
+        "sentence": "Irvine made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Anaheim"
+        },
+        "sentence": "Anaheim made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Seattle"
+        },
+        "sentence": "Seattle made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Lexington"
+        },
+        "sentence": "Lexington made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Lincoln"
+        },
+        "sentence": "Lincoln made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Washington, D.C."
+        },
+        "sentence": "Washington, D.C. made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "San Juan"
+        },
+        "sentence": "San Juan made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Duval County"
+        },
+        "sentence": "Duval County made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Wichita"
+        },
+        "sentence": "Wichita made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "El Paso"
+        },
+        "sentence": "El Paso made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Toledo"
+        },
+        "sentence": "Toledo made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Indianapolis"
+        },
+        "sentence": "Indianapolis made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Arlington County"
+        },
+        "sentence": "Arlington County made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Baltimore"
+        },
+        "sentence": "Baltimore made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Seattle"
+        },
+        "sentence": "Seattle made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Saint Paul"
+        },
+        "sentence": "Saint Paul made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Atlanta"
+        },
+        "sentence": "Atlanta made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Santa Ana"
+        },
+        "sentence": "Santa Ana made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Dallas"
+        },
+        "sentence": "Dallas made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Dallas"
+        },
+        "sentence": "Dallas made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "St. Louis"
+        },
+        "sentence": "St. Louis made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Tampa"
+        },
+        "sentence": "Tampa made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Honolulu County"
+        },
+        "sentence": "Honolulu County made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Hialeah"
+        },
+        "sentence": "Hialeah made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Memphis"
+        },
+        "sentence": "Memphis made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Chandler"
+        },
+        "sentence": "Chandler made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Lubbock"
+        },
+        "sentence": "Lubbock made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Pittsburgh"
+        },
+        "sentence": "Pittsburgh made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Portland"
+        },
+        "sentence": "Portland made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Boston"
+        },
+        "sentence": "Boston made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Chicago"
+        },
+        "sentence": "Chicago made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "North Las Vegas"
+        },
+        "sentence": "North Las Vegas made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Durham"
+        },
+        "sentence": "Durham made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Los Angeles"
+        },
+        "sentence": "Los Angeles made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Austin"
+        },
+        "sentence": "Austin made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Reno"
+        },
+        "sentence": "Reno made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Bakersfield"
+        },
+        "sentence": "Bakersfield made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Durham"
+        },
+        "sentence": "Durham made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Fort Wayne"
+        },
+        "sentence": "Fort Wayne made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Atlanta"
+        },
+        "sentence": "Atlanta made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Washington, D.C."
+        },
+        "sentence": "Washington, D.C. made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Kansas City"
+        },
+        "sentence": "Kansas City made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "San Francisco"
+        },
+        "sentence": "San Francisco made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Kansas City"
+        },
+        "sentence": "Kansas City made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Memphis"
+        },
+        "sentence": "Memphis made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "St. Petersburg"
+        },
+        "sentence": "St. Petersburg made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Portland"
+        },
+        "sentence": "Portland made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "San Francisco"
+        },
+        "sentence": "San Francisco made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Duval County"
+        },
+        "sentence": "Duval County made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Arlington County"
+        },
+        "sentence": "Arlington County made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Minneapolis"
+        },
+        "sentence": "Minneapolis made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Norfolk"
+        },
+        "sentence": "Norfolk made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Riverside"
+        },
+        "sentence": "Riverside made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Nashville"
+        },
+        "sentence": "Nashville made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "San Jose"
+        },
+        "sentence": "San Jose made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Switzerland"
+        },
+        "sentence": "The deal was made in Switzerland",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Georgia"
+        },
+        "sentence": "The deal was made in Georgia",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Saint Lucia"
+        },
+        "sentence": "The deal was made in Saint Lucia",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Austria"
+        },
+        "sentence": "The deal was made in Austria",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Costa Rica"
+        },
+        "sentence": "The deal was made in Costa Rica",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Luxembourg"
+        },
+        "sentence": "The deal was made in Luxembourg",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Czech Republic"
+        },
+        "sentence": "The deal was made in Czech Republic",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Croatia"
+        },
+        "sentence": "The deal was made in Croatia",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Albania"
+        },
+        "sentence": "The deal was made in Albania",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Tajikistan"
+        },
+        "sentence": "The deal was made in Tajikistan",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Papua New Guinea"
+        },
+        "sentence": "The deal was made in Papua New Guinea",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Mauritania"
+        },
+        "sentence": "The deal was made in Mauritania",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "South Korea"
+        },
+        "sentence": "The deal was made in South Korea",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "The Bahamas"
+        },
+        "sentence": "The deal was made in The Bahamas",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Iraq"
+        },
+        "sentence": "The deal was made in Iraq",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Spain"
+        },
+        "sentence": "The deal was made in Spain",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Luxembourg"
+        },
+        "sentence": "The deal was made in Luxembourg",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Saint Kitts and Nevis"
+        },
+        "sentence": "The deal was made in Saint Kitts and Nevis",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Greece"
+        },
+        "sentence": "The deal was made in Greece",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Armenia"
+        },
+        "sentence": "The deal was made in Armenia",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Brazil"
+        },
+        "sentence": "The deal was made in Brazil",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Switzerland"
+        },
+        "sentence": "The deal was made in Switzerland",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Venezuela"
+        },
+        "sentence": "The deal was made in Venezuela",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Italy"
+        },
+        "sentence": "The deal was made in Italy",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Uzbekistan"
+        },
+        "sentence": "The deal was made in Uzbekistan",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Jamaica"
+        },
+        "sentence": "The deal was made in Jamaica",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Jordan"
+        },
+        "sentence": "The deal was made in Jordan",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Estonia"
+        },
+        "sentence": "The deal was made in Estonia",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Kyrgyzstan"
+        },
+        "sentence": "The deal was made in Kyrgyzstan",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "New Zealand"
+        },
+        "sentence": "The deal was made in New Zealand",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Nigeria"
+        },
+        "sentence": "The deal was made in Nigeria",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Bangladesh"
+        },
+        "sentence": "The deal was made in Bangladesh",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Mali"
+        },
+        "sentence": "The deal was made in Mali",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "North Macedonia"
+        },
+        "sentence": "The deal was made in North Macedonia",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Rwanda"
+        },
+        "sentence": "The deal was made in Rwanda",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Turkey"
+        },
+        "sentence": "The deal was made in Turkey",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Dominican Republic"
+        },
+        "sentence": "The deal was made in Dominican Republic",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Tajikistan"
+        },
+        "sentence": "The deal was made in Tajikistan",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Liberia"
+        },
+        "sentence": "The deal was made in Liberia",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Eswatini"
+        },
+        "sentence": "The deal was made in Eswatini",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Croatia"
+        },
+        "sentence": "The deal was made in Croatia",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Trinidad and Tobago"
+        },
+        "sentence": "The deal was made in Trinidad and Tobago",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Ghana"
+        },
+        "sentence": "The deal was made in Ghana",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Portugal"
+        },
+        "sentence": "The deal was made in Portugal",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "India"
+        },
+        "sentence": "The deal was made in India",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Canada"
+        },
+        "sentence": "The deal was made in Canada",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Solomon Islands"
+        },
+        "sentence": "The deal was made in Solomon Islands",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Sierra Leone"
+        },
+        "sentence": "The deal was made in Sierra Leone",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Guyana"
+        },
+        "sentence": "The deal was made in Guyana",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Bangladesh"
+        },
+        "sentence": "The deal was made in Bangladesh",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Mongolia"
+        },
+        "sentence": "The deal was made in Mongolia",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Yemen"
+        },
+        "sentence": "The deal was made in Yemen",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Bhutan"
+        },
+        "sentence": "The deal was made in Bhutan",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "El Salvador"
+        },
+        "sentence": "The deal was made in El Salvador",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Solomon Islands"
+        },
+        "sentence": "The deal was made in Solomon Islands",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "North Macedonia"
+        },
+        "sentence": "The deal was made in North Macedonia",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Marshall Islands"
+        },
+        "sentence": "The deal was made in Marshall Islands",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Pakistan"
+        },
+        "sentence": "The deal was made in Pakistan",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Namibia"
+        },
+        "sentence": "The deal was made in Namibia",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Australia"
+        },
+        "sentence": "The deal was made in Australia",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Uzbekistan"
+        },
+        "sentence": "The deal was made in Uzbekistan",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Iraq"
+        },
+        "sentence": "The deal was made in Iraq",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Peru"
+        },
+        "sentence": "The deal was made in Peru",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Malawi"
+        },
+        "sentence": "The deal was made in Malawi",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Belize"
+        },
+        "sentence": "The deal was made in Belize",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Georgia"
+        },
+        "sentence": "The deal was made in Georgia",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Maldives"
+        },
+        "sentence": "The deal was made in Maldives",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Moldova"
+        },
+        "sentence": "The deal was made in Moldova",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Cameroon"
+        },
+        "sentence": "The deal was made in Cameroon",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Congo"
+        },
+        "sentence": "The deal was made in Congo",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Uganda"
+        },
+        "sentence": "The deal was made in Uganda",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Qatar"
+        },
+        "sentence": "The deal was made in Qatar",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Kazakhstan"
+        },
+        "sentence": "The deal was made in Kazakhstan",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Belarus"
+        },
+        "sentence": "The deal was made in Belarus",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Singapore"
+        },
+        "sentence": "The deal was made in Singapore",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Paraguay"
+        },
+        "sentence": "The deal was made in Paraguay",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Latvia"
+        },
+        "sentence": "The deal was made in Latvia",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Andorra"
+        },
+        "sentence": "The deal was made in Andorra",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Cyprus"
+        },
+        "sentence": "The deal was made in Cyprus",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Maldives"
+        },
+        "sentence": "The deal was made in Maldives",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Gabon"
+        },
+        "sentence": "The deal was made in Gabon",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Tanzania"
+        },
+        "sentence": "The deal was made in Tanzania",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "South Sudan"
+        },
+        "sentence": "The deal was made in South Sudan",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "South Africa"
+        },
+        "sentence": "The deal was made in South Africa",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Ghana"
+        },
+        "sentence": "The deal was made in Ghana",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Montenegro"
+        },
+        "sentence": "The deal was made in Montenegro",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Somalia"
+        },
+        "sentence": "The deal was made in Somalia",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Mali"
+        },
+        "sentence": "The deal was made in Mali",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "The Gambia"
+        },
+        "sentence": "The deal was made in The Gambia",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Israel"
+        },
+        "sentence": "The deal was made in Israel",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Ecuador"
+        },
+        "sentence": "The deal was made in Ecuador",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Burkina Faso"
+        },
+        "sentence": "The deal was made in Burkina Faso",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "El Salvador"
+        },
+        "sentence": "The deal was made in El Salvador",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Nigeria"
+        },
+        "sentence": "The deal was made in Nigeria",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Tajikistan"
+        },
+        "sentence": "The deal was made in Tajikistan",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Romania"
+        },
+        "sentence": "The deal was made in Romania",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Belgium"
+        },
+        "sentence": "The deal was made in Belgium",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Cambodia"
+        },
+        "sentence": "The deal was made in Cambodia",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Sweden"
+        },
+        "sentence": "The deal was made in Sweden",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Bangladesh"
+        },
+        "sentence": "The deal was made in Bangladesh",
+        "testcase_name": "country_location"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "China"
+        },
+        "sentence": "China made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Georgia"
+        },
+        "sentence": "Georgia made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Norway"
+        },
+        "sentence": "Norway made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "the Netherlands"
+        },
+        "sentence": "the Netherlands made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Dominica"
+        },
+        "sentence": "Dominica made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Zambia"
+        },
+        "sentence": "Zambia made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Australia"
+        },
+        "sentence": "Australia made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Maldives"
+        },
+        "sentence": "Maldives made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Mozambique"
+        },
+        "sentence": "Mozambique made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Algeria"
+        },
+        "sentence": "Algeria made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Sierra Leone"
+        },
+        "sentence": "Sierra Leone made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Belgium"
+        },
+        "sentence": "Belgium made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Seychelles"
+        },
+        "sentence": "Seychelles made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Mexico"
+        },
+        "sentence": "Mexico made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Nicaragua"
+        },
+        "sentence": "Nicaragua made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "The Bahamas"
+        },
+        "sentence": "The Bahamas made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Niger"
+        },
+        "sentence": "Niger made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Mali"
+        },
+        "sentence": "Mali made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Moldova"
+        },
+        "sentence": "Moldova made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Cyprus"
+        },
+        "sentence": "Cyprus made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Saudi Arabia"
+        },
+        "sentence": "Saudi Arabia made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Japan"
+        },
+        "sentence": "Japan made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Kazakhstan"
+        },
+        "sentence": "Kazakhstan made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Kyrgyzstan"
+        },
+        "sentence": "Kyrgyzstan made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "San Marino"
+        },
+        "sentence": "San Marino made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Russia"
+        },
+        "sentence": "Russia made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Cyprus"
+        },
+        "sentence": "Cyprus made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "The Gambia"
+        },
+        "sentence": "The Gambia made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Slovakia"
+        },
+        "sentence": "Slovakia made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "San Marino"
+        },
+        "sentence": "San Marino made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Myanmar"
+        },
+        "sentence": "Myanmar made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Portugal"
+        },
+        "sentence": "Portugal made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Iran"
+        },
+        "sentence": "Iran made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Czech Republic"
+        },
+        "sentence": "Czech Republic made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "United States"
+        },
+        "sentence": "United States made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Ghana"
+        },
+        "sentence": "Ghana made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Cyprus"
+        },
+        "sentence": "Cyprus made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Burundi"
+        },
+        "sentence": "Burundi made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Bolivia"
+        },
+        "sentence": "Bolivia made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Finland"
+        },
+        "sentence": "Finland made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "South Africa"
+        },
+        "sentence": "South Africa made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Mauritania"
+        },
+        "sentence": "Mauritania made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Senegal"
+        },
+        "sentence": "Senegal made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Suriname"
+        },
+        "sentence": "Suriname made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Pakistan"
+        },
+        "sentence": "Pakistan made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Congo"
+        },
+        "sentence": "Congo made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "New Zealand"
+        },
+        "sentence": "New Zealand made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Haiti"
+        },
+        "sentence": "Haiti made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Barbados"
+        },
+        "sentence": "Barbados made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Montenegro"
+        },
+        "sentence": "Montenegro made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Equatorial Guinea"
+        },
+        "sentence": "Equatorial Guinea made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Yemen"
+        },
+        "sentence": "Yemen made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Cuba"
+        },
+        "sentence": "Cuba made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Central African Republic"
+        },
+        "sentence": "Central African Republic made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Tanzania"
+        },
+        "sentence": "Tanzania made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Namibia"
+        },
+        "sentence": "Namibia made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Mozambique"
+        },
+        "sentence": "Mozambique made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Albania"
+        },
+        "sentence": "Albania made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Malaysia"
+        },
+        "sentence": "Malaysia made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Uruguay"
+        },
+        "sentence": "Uruguay made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Mozambique"
+        },
+        "sentence": "Mozambique made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Qatar"
+        },
+        "sentence": "Qatar made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Hungary"
+        },
+        "sentence": "Hungary made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Spain"
+        },
+        "sentence": "Spain made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Montenegro"
+        },
+        "sentence": "Montenegro made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Lesotho"
+        },
+        "sentence": "Lesotho made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Eswatini"
+        },
+        "sentence": "Eswatini made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Uganda"
+        },
+        "sentence": "Uganda made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Georgia"
+        },
+        "sentence": "Georgia made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Uzbekistan"
+        },
+        "sentence": "Uzbekistan made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Philippines"
+        },
+        "sentence": "Philippines made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "South Korea"
+        },
+        "sentence": "South Korea made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Chile"
+        },
+        "sentence": "Chile made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Egypt"
+        },
+        "sentence": "Egypt made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Tunisia"
+        },
+        "sentence": "Tunisia made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Azerbaijan"
+        },
+        "sentence": "Azerbaijan made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Tajikistan"
+        },
+        "sentence": "Tajikistan made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Malta"
+        },
+        "sentence": "Malta made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Maldives"
+        },
+        "sentence": "Maldives made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Gabon"
+        },
+        "sentence": "Gabon made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Japan"
+        },
+        "sentence": "Japan made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Tanzania"
+        },
+        "sentence": "Tanzania made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Honduras"
+        },
+        "sentence": "Honduras made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Brazil"
+        },
+        "sentence": "Brazil made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Norway"
+        },
+        "sentence": "Norway made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Spain"
+        },
+        "sentence": "Spain made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Belarus"
+        },
+        "sentence": "Belarus made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Antigua and Barbuda"
+        },
+        "sentence": "Antigua and Barbuda made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Ireland"
+        },
+        "sentence": "Ireland made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Guinea"
+        },
+        "sentence": "Guinea made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Guinea"
+        },
+        "sentence": "Guinea made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Slovakia"
+        },
+        "sentence": "Slovakia made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Bhutan"
+        },
+        "sentence": "Bhutan made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Peru"
+        },
+        "sentence": "Peru made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Estonia"
+        },
+        "sentence": "Estonia made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Kenya"
+        },
+        "sentence": "Kenya made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "United Kingdom"
+        },
+        "sentence": "United Kingdom made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Mozambique"
+        },
+        "sentence": "Mozambique made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Indonesia"
+        },
+        "sentence": "Indonesia made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "country": "Norway"
+        },
+        "sentence": "Norway made the deal",
+        "testcase_name": "country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Boston"
+        },
+        "sentence": "Boston made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Irvine"
+        },
+        "sentence": "Irvine made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Long Beach"
+        },
+        "sentence": "Long Beach made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Laredo"
+        },
+        "sentence": "Laredo made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Irving"
+        },
+        "sentence": "Irving made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Chula Vista"
+        },
+        "sentence": "Chula Vista made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Jersey City"
+        },
+        "sentence": "Jersey City made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Miami"
+        },
+        "sentence": "Miami made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "San Antonio"
+        },
+        "sentence": "San Antonio made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Cleveland"
+        },
+        "sentence": "Cleveland made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Santa Ana"
+        },
+        "sentence": "Santa Ana made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Indianapolis"
+        },
+        "sentence": "Indianapolis made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Anchorage"
+        },
+        "sentence": "Anchorage made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Long Beach"
+        },
+        "sentence": "Long Beach made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Fort Worth"
+        },
+        "sentence": "Fort Worth made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Sacramento"
+        },
+        "sentence": "Sacramento made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Norfolk"
+        },
+        "sentence": "Norfolk made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Irvine"
+        },
+        "sentence": "Irvine made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Durham"
+        },
+        "sentence": "Durham made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Madison"
+        },
+        "sentence": "Madison made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Sacramento"
+        },
+        "sentence": "Sacramento made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Portland"
+        },
+        "sentence": "Portland made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "St. Louis"
+        },
+        "sentence": "St. Louis made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Garland"
+        },
+        "sentence": "Garland made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Sacramento"
+        },
+        "sentence": "Sacramento made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Hialeah"
+        },
+        "sentence": "Hialeah made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Lexington"
+        },
+        "sentence": "Lexington made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Reno"
+        },
+        "sentence": "Reno made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "New Orleans"
+        },
+        "sentence": "New Orleans made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Aurora"
+        },
+        "sentence": "Aurora made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Jacksonville"
+        },
+        "sentence": "Jacksonville made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Chandler"
+        },
+        "sentence": "Chandler made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Oakland"
+        },
+        "sentence": "Oakland made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Raleigh"
+        },
+        "sentence": "Raleigh made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Stockton"
+        },
+        "sentence": "Stockton made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Richmond"
+        },
+        "sentence": "Richmond made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Cincinnati"
+        },
+        "sentence": "Cincinnati made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Pittsburgh"
+        },
+        "sentence": "Pittsburgh made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Irvine"
+        },
+        "sentence": "Irvine made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Arlington"
+        },
+        "sentence": "Arlington made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Sacramento"
+        },
+        "sentence": "Sacramento made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Jacksonville"
+        },
+        "sentence": "Jacksonville made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Norfolk"
+        },
+        "sentence": "Norfolk made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Detroit"
+        },
+        "sentence": "Detroit made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Raleigh"
+        },
+        "sentence": "Raleigh made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Durham"
+        },
+        "sentence": "Durham made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Reno"
+        },
+        "sentence": "Reno made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Lexington"
+        },
+        "sentence": "Lexington made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Hialeah"
+        },
+        "sentence": "Hialeah made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Orlando"
+        },
+        "sentence": "Orlando made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Nashville"
+        },
+        "sentence": "Nashville made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Phoenix"
+        },
+        "sentence": "Phoenix made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Albuquerque"
+        },
+        "sentence": "Albuquerque made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Mesa"
+        },
+        "sentence": "Mesa made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Tampa"
+        },
+        "sentence": "Tampa made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Cincinnati"
+        },
+        "sentence": "Cincinnati made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Duval County"
+        },
+        "sentence": "Duval County made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Henderson"
+        },
+        "sentence": "Henderson made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "New Orleans"
+        },
+        "sentence": "New Orleans made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Columbus"
+        },
+        "sentence": "Columbus made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Pittsburgh"
+        },
+        "sentence": "Pittsburgh made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Chesapeake"
+        },
+        "sentence": "Chesapeake made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Jersey City"
+        },
+        "sentence": "Jersey City made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "St. Louis"
+        },
+        "sentence": "St. Louis made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Glendale"
+        },
+        "sentence": "Glendale made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Lexington"
+        },
+        "sentence": "Lexington made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Chicago"
+        },
+        "sentence": "Chicago made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Bakersfield"
+        },
+        "sentence": "Bakersfield made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "San Antonio"
+        },
+        "sentence": "San Antonio made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Lubbock"
+        },
+        "sentence": "Lubbock made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Arlington"
+        },
+        "sentence": "Arlington made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Lexington"
+        },
+        "sentence": "Lexington made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Anaheim"
+        },
+        "sentence": "Anaheim made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "North Las Vegas"
+        },
+        "sentence": "North Las Vegas made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Jersey City"
+        },
+        "sentence": "Jersey City made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Irving"
+        },
+        "sentence": "Irving made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Cincinnati"
+        },
+        "sentence": "Cincinnati made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Phoenix"
+        },
+        "sentence": "Phoenix made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Jersey City"
+        },
+        "sentence": "Jersey City made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Orlando"
+        },
+        "sentence": "Orlando made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Cleveland"
+        },
+        "sentence": "Cleveland made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Denver"
+        },
+        "sentence": "Denver made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Philadelphia"
+        },
+        "sentence": "Philadelphia made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Plano"
+        },
+        "sentence": "Plano made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Fresno"
+        },
+        "sentence": "Fresno made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Buffalo"
+        },
+        "sentence": "Buffalo made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Riverside"
+        },
+        "sentence": "Riverside made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Arlington"
+        },
+        "sentence": "Arlington made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Tucson"
+        },
+        "sentence": "Tucson made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Virginia Beach"
+        },
+        "sentence": "Virginia Beach made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Columbus"
+        },
+        "sentence": "Columbus made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Phoenix"
+        },
+        "sentence": "Phoenix made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Detroit"
+        },
+        "sentence": "Detroit made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Portland"
+        },
+        "sentence": "Portland made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Garland"
+        },
+        "sentence": "Garland made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Garland"
+        },
+        "sentence": "Garland made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Portland"
+        },
+        "sentence": "Portland made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "San Diego"
+        },
+        "sentence": "San Diego made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Reno"
+        },
+        "sentence": "Reno made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Memphis"
+        },
+        "sentence": "Memphis made the deal",
+        "testcase_name": "city_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Anaheim",
+            "country": "Sudan"
+        },
+        "sentence": "In Anaheim the deal with the president was made by Sudan",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Tucson",
+            "country": "Philippines"
+        },
+        "sentence": "In Tucson the deal with the president was made by Philippines",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Corpus Christi",
+            "country": "Tonga"
+        },
+        "sentence": "In Corpus Christi the deal with the president was made by Tonga",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "San Diego",
+            "country": "Australia"
+        },
+        "sentence": "In San Diego the deal with the president was made by Australia",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Cincinnati",
+            "country": "Norway"
+        },
+        "sentence": "In Cincinnati the deal with the president was made by Norway",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Norfolk",
+            "country": "Bosnia and Herzegovina"
+        },
+        "sentence": "In Norfolk the deal with the president was made by Bosnia and Herzegovina",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "St. Petersburg",
+            "country": "Uganda"
+        },
+        "sentence": "In St. Petersburg the deal with the president was made by Uganda",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Philadelphia",
+            "country": "Orange Free State"
+        },
+        "sentence": "In Philadelphia the deal with the president was made by Orange Free State",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Anchorage",
+            "country": "Venezuela"
+        },
+        "sentence": "In Anchorage the deal with the president was made by Venezuela",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Cleveland",
+            "country": "Namibia"
+        },
+        "sentence": "In Cleveland the deal with the president was made by Namibia",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Newark",
+            "country": "Saint Lucia"
+        },
+        "sentence": "In Newark the deal with the president was made by Saint Lucia",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Chandler",
+            "country": "Zimbabwe"
+        },
+        "sentence": "In Chandler the deal with the president was made by Zimbabwe",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Wichita",
+            "country": "Argentina"
+        },
+        "sentence": "In Wichita the deal with the president was made by Argentina",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Omaha",
+            "country": "Azerbaijan"
+        },
+        "sentence": "In Omaha the deal with the president was made by Azerbaijan",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Hialeah",
+            "country": "Grenada"
+        },
+        "sentence": "In Hialeah the deal with the president was made by Grenada",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Stockton",
+            "country": "Kazakhstan"
+        },
+        "sentence": "In Stockton the deal with the president was made by Kazakhstan",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Los Angeles",
+            "country": "Morocco"
+        },
+        "sentence": "In Los Angeles the deal with the president was made by Morocco",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Memphis",
+            "country": "Nicaragua"
+        },
+        "sentence": "In Memphis the deal with the president was made by Nicaragua",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Minneapolis",
+            "country": "Kiribati"
+        },
+        "sentence": "In Minneapolis the deal with the president was made by Kiribati",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Detroit",
+            "country": "Montenegro"
+        },
+        "sentence": "In Detroit the deal with the president was made by Montenegro",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Durham",
+            "country": "Ecuador"
+        },
+        "sentence": "In Durham the deal with the president was made by Ecuador",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Los Angeles",
+            "country": "Trinidad and Tobago"
+        },
+        "sentence": "In Los Angeles the deal with the president was made by Trinidad and Tobago",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Lubbock",
+            "country": "Cyprus"
+        },
+        "sentence": "In Lubbock the deal with the president was made by Cyprus",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Las Vegas",
+            "country": "Burundi"
+        },
+        "sentence": "In Las Vegas the deal with the president was made by Burundi",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Norfolk",
+            "country": "Papua New Guinea"
+        },
+        "sentence": "In Norfolk the deal with the president was made by Papua New Guinea",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Chula Vista",
+            "country": "Nauru"
+        },
+        "sentence": "In Chula Vista the deal with the president was made by Nauru",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Corpus Christi",
+            "country": "Madagascar"
+        },
+        "sentence": "In Corpus Christi the deal with the president was made by Madagascar",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Honolulu County",
+            "country": "Ukraine"
+        },
+        "sentence": "In Honolulu County the deal with the president was made by Ukraine",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Portland",
+            "country": "The Gambia"
+        },
+        "sentence": "In Portland the deal with the president was made by The Gambia",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Toledo",
+            "country": "Poland"
+        },
+        "sentence": "In Toledo the deal with the president was made by Poland",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Anaheim",
+            "country": "Canada"
+        },
+        "sentence": "In Anaheim the deal with the president was made by Canada",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Tampa",
+            "country": "San Marino"
+        },
+        "sentence": "In Tampa the deal with the president was made by San Marino",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Hialeah",
+            "country": "Indonesia"
+        },
+        "sentence": "In Hialeah the deal with the president was made by Indonesia",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Irvine",
+            "country": "Georgia"
+        },
+        "sentence": "In Irvine the deal with the president was made by Georgia",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Jersey City",
+            "country": "Egypt"
+        },
+        "sentence": "In Jersey City the deal with the president was made by Egypt",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "San Antonio",
+            "country": "Lithuania"
+        },
+        "sentence": "In San Antonio the deal with the president was made by Lithuania",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Laredo",
+            "country": "Uzbekistan"
+        },
+        "sentence": "In Laredo the deal with the president was made by Uzbekistan",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Cleveland",
+            "country": "Niger"
+        },
+        "sentence": "In Cleveland the deal with the president was made by Niger",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Reno",
+            "country": "United States"
+        },
+        "sentence": "In Reno the deal with the president was made by United States",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Columbus",
+            "country": "Estonia"
+        },
+        "sentence": "In Columbus the deal with the president was made by Estonia",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Charlotte",
+            "country": "Brunei"
+        },
+        "sentence": "In Charlotte the deal with the president was made by Brunei",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Raleigh",
+            "country": "Ivory Coast"
+        },
+        "sentence": "In Raleigh the deal with the president was made by Ivory Coast",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Jacksonville",
+            "country": "North Korea"
+        },
+        "sentence": "In Jacksonville the deal with the president was made by North Korea",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Long Beach",
+            "country": "Belize"
+        },
+        "sentence": "In Long Beach the deal with the president was made by Belize",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Riverside",
+            "country": "Andorra"
+        },
+        "sentence": "In Riverside the deal with the president was made by Andorra",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Anchorage",
+            "country": "Paraguay"
+        },
+        "sentence": "In Anchorage the deal with the president was made by Paraguay",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Laredo",
+            "country": "Equatorial Guinea"
+        },
+        "sentence": "In Laredo the deal with the president was made by Equatorial Guinea",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "San Diego",
+            "country": "Eritrea"
+        },
+        "sentence": "In San Diego the deal with the president was made by Eritrea",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Corpus Christi",
+            "country": "Papua New Guinea"
+        },
+        "sentence": "In Corpus Christi the deal with the president was made by Papua New Guinea",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "San Juan",
+            "country": "Lesotho"
+        },
+        "sentence": "In San Juan the deal with the president was made by Lesotho",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Madison",
+            "country": "Angola"
+        },
+        "sentence": "In Madison the deal with the president was made by Angola",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "San Juan",
+            "country": "Spain"
+        },
+        "sentence": "In San Juan the deal with the president was made by Spain",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Jacksonville",
+            "country": "Qatar"
+        },
+        "sentence": "In Jacksonville the deal with the president was made by Qatar",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Honolulu County",
+            "country": "Bulgaria"
+        },
+        "sentence": "In Honolulu County the deal with the president was made by Bulgaria",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Orlando",
+            "country": "Venezuela"
+        },
+        "sentence": "In Orlando the deal with the president was made by Venezuela",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Richmond",
+            "country": "Antigua and Barbuda"
+        },
+        "sentence": "In Richmond the deal with the president was made by Antigua and Barbuda",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Miami",
+            "country": "Turkmenistan"
+        },
+        "sentence": "In Miami the deal with the president was made by Turkmenistan",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Glendale",
+            "country": "Vatican City"
+        },
+        "sentence": "In Glendale the deal with the president was made by Vatican City",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Oklahoma City",
+            "country": "Kazakhstan"
+        },
+        "sentence": "In Oklahoma City the deal with the president was made by Kazakhstan",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Austin",
+            "country": "Ethiopia"
+        },
+        "sentence": "In Austin the deal with the president was made by Ethiopia",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Houston",
+            "country": "Samoa"
+        },
+        "sentence": "In Houston the deal with the president was made by Samoa",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Scottsdale",
+            "country": "Cambodia"
+        },
+        "sentence": "In Scottsdale the deal with the president was made by Cambodia",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "St. Petersburg",
+            "country": "Philippines"
+        },
+        "sentence": "In St. Petersburg the deal with the president was made by Philippines",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Anaheim",
+            "country": "India"
+        },
+        "sentence": "In Anaheim the deal with the president was made by India",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Lincoln",
+            "country": "Liechtenstein"
+        },
+        "sentence": "In Lincoln the deal with the president was made by Liechtenstein",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Lexington",
+            "country": "India"
+        },
+        "sentence": "In Lexington the deal with the president was made by India",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Riverside",
+            "country": "Germany"
+        },
+        "sentence": "In Riverside the deal with the president was made by Germany",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Glendale",
+            "country": "Peru"
+        },
+        "sentence": "In Glendale the deal with the president was made by Peru",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Fort Worth",
+            "country": "the Netherlands"
+        },
+        "sentence": "In Fort Worth the deal with the president was made by the Netherlands",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Cleveland",
+            "country": "Serbia"
+        },
+        "sentence": "In Cleveland the deal with the president was made by Serbia",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Austin",
+            "country": "Sri Lanka"
+        },
+        "sentence": "In Austin the deal with the president was made by Sri Lanka",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Greensboro",
+            "country": "Belize"
+        },
+        "sentence": "In Greensboro the deal with the president was made by Belize",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Scottsdale",
+            "country": "Moldova"
+        },
+        "sentence": "In Scottsdale the deal with the president was made by Moldova",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Lexington",
+            "country": "Antigua and Barbuda"
+        },
+        "sentence": "In Lexington the deal with the president was made by Antigua and Barbuda",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Raleigh",
+            "country": "Guinea"
+        },
+        "sentence": "In Raleigh the deal with the president was made by Guinea",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Columbus",
+            "country": "Russia"
+        },
+        "sentence": "In Columbus the deal with the president was made by Russia",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Stockton",
+            "country": "Poland"
+        },
+        "sentence": "In Stockton the deal with the president was made by Poland",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Durham",
+            "country": "Congo"
+        },
+        "sentence": "In Durham the deal with the president was made by Congo",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Chula Vista",
+            "country": "Madagascar"
+        },
+        "sentence": "In Chula Vista the deal with the president was made by Madagascar",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Richmond",
+            "country": "Zimbabwe"
+        },
+        "sentence": "In Richmond the deal with the president was made by Zimbabwe",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "North Las Vegas",
+            "country": "Indonesia"
+        },
+        "sentence": "In North Las Vegas the deal with the president was made by Indonesia",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Sacramento",
+            "country": "Myanmar"
+        },
+        "sentence": "In Sacramento the deal with the president was made by Myanmar",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Atlanta",
+            "country": "Belgium"
+        },
+        "sentence": "In Atlanta the deal with the president was made by Belgium",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Greensboro",
+            "country": "Serbia"
+        },
+        "sentence": "In Greensboro the deal with the president was made by Serbia",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Indianapolis",
+            "country": "Armenia"
+        },
+        "sentence": "In Indianapolis the deal with the president was made by Armenia",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Raleigh",
+            "country": "North Macedonia"
+        },
+        "sentence": "In Raleigh the deal with the president was made by North Macedonia",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Hialeah",
+            "country": "Oman"
+        },
+        "sentence": "In Hialeah the deal with the president was made by Oman",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Chandler",
+            "country": "Peru"
+        },
+        "sentence": "In Chandler the deal with the president was made by Peru",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Albuquerque",
+            "country": "The Gambia"
+        },
+        "sentence": "In Albuquerque the deal with the president was made by The Gambia",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Columbus",
+            "country": "Mongolia"
+        },
+        "sentence": "In Columbus the deal with the president was made by Mongolia",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Anaheim",
+            "country": "Vatican City"
+        },
+        "sentence": "In Anaheim the deal with the president was made by Vatican City",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Lincoln",
+            "country": "Rwanda"
+        },
+        "sentence": "In Lincoln the deal with the president was made by Rwanda",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Cleveland",
+            "country": "Singapore"
+        },
+        "sentence": "In Cleveland the deal with the president was made by Singapore",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Saint Paul",
+            "country": "Saint Vincent and the Grenadines"
+        },
+        "sentence": "In Saint Paul the deal with the president was made by Saint Vincent and the Grenadines",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Anaheim",
+            "country": "Mauritius"
+        },
+        "sentence": "In Anaheim the deal with the president was made by Mauritius",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Fort Wayne",
+            "country": "Sierra Leone"
+        },
+        "sentence": "In Fort Wayne the deal with the president was made by Sierra Leone",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Duval County",
+            "country": "Comoros"
+        },
+        "sentence": "In Duval County the deal with the president was made by Comoros",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Henderson",
+            "country": "North Macedonia"
+        },
+        "sentence": "In Henderson the deal with the president was made by North Macedonia",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Oakland",
+            "country": "Hungary"
+        },
+        "sentence": "In Oakland the deal with the president was made by Hungary",
+        "testcase_name": "city_location_country_agent"
+    },
+    {
+        "capability": "location_recognition",
+        "meta": {
+            "city": "Oakland",
+            "country": "The Gambia"
+        },
+        "sentence": "In Oakland the deal with the president was made by The Gambia",
+        "testcase_name": "city_location_country_agent"
+    }
+]

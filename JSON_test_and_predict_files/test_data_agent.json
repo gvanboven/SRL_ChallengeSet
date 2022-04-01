@@ -1,0 +1,3802 @@
+[
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Harold",
+            "verb": "missed"
+        },
+        "sentence": "Harold missed the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Eleanor",
+            "verb": "kicked"
+        },
+        "sentence": "Eleanor kicked the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Steven",
+            "verb": "kicked"
+        },
+        "sentence": "Steven kicked the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Bruce",
+            "verb": "stopped"
+        },
+        "sentence": "Bruce stopped the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Julie",
+            "verb": "stopped"
+        },
+        "sentence": "Julie stopped the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Mark",
+            "verb": "kicked"
+        },
+        "sentence": "Mark kicked the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Don",
+            "verb": "missed"
+        },
+        "sentence": "Don missed the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Amanda",
+            "verb": "touched"
+        },
+        "sentence": "Amanda touched the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Ed",
+            "verb": "stopped"
+        },
+        "sentence": "Ed stopped the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Dan",
+            "verb": "stopped"
+        },
+        "sentence": "Dan stopped the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Al",
+            "verb": "stopped"
+        },
+        "sentence": "Al stopped the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Lisa",
+            "verb": "touched"
+        },
+        "sentence": "Lisa touched the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Claire",
+            "verb": "touched"
+        },
+        "sentence": "Claire touched the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Lisa",
+            "verb": "kicked"
+        },
+        "sentence": "Lisa kicked the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Marilyn",
+            "verb": "missed"
+        },
+        "sentence": "Marilyn missed the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Rose",
+            "verb": "touched"
+        },
+        "sentence": "Rose touched the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Robert",
+            "verb": "missed"
+        },
+        "sentence": "Robert missed the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Kenneth",
+            "verb": "smashed"
+        },
+        "sentence": "Kenneth smashed the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Paul",
+            "verb": "touched"
+        },
+        "sentence": "Paul touched the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Melissa",
+            "verb": "touched"
+        },
+        "sentence": "Melissa touched the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Judy",
+            "verb": "smashed"
+        },
+        "sentence": "Judy smashed the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Patricia",
+            "verb": "hit"
+        },
+        "sentence": "Patricia hit the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Bruce",
+            "verb": "touched"
+        },
+        "sentence": "Bruce touched the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Marilyn",
+            "verb": "stopped"
+        },
+        "sentence": "Marilyn stopped the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Katie",
+            "verb": "touched"
+        },
+        "sentence": "Katie touched the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Ellen",
+            "verb": "smashed"
+        },
+        "sentence": "Ellen smashed the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Bobby",
+            "verb": "missed"
+        },
+        "sentence": "Bobby missed the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Alice",
+            "verb": "hit"
+        },
+        "sentence": "Alice hit the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Sharon",
+            "verb": "hit"
+        },
+        "sentence": "Sharon hit the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Roy",
+            "verb": "touched"
+        },
+        "sentence": "Roy touched the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Sue",
+            "verb": "kicked"
+        },
+        "sentence": "Sue kicked the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Sally",
+            "verb": "stopped"
+        },
+        "sentence": "Sally stopped the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Adam",
+            "verb": "touched"
+        },
+        "sentence": "Adam touched the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Nick",
+            "verb": "missed"
+        },
+        "sentence": "Nick missed the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Claire",
+            "verb": "kicked"
+        },
+        "sentence": "Claire kicked the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Michelle",
+            "verb": "missed"
+        },
+        "sentence": "Michelle missed the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Helen",
+            "verb": "stopped"
+        },
+        "sentence": "Helen stopped the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Lisa",
+            "verb": "smashed"
+        },
+        "sentence": "Lisa smashed the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Robin",
+            "verb": "hit"
+        },
+        "sentence": "Robin hit the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Philip",
+            "verb": "missed"
+        },
+        "sentence": "Philip missed the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Keith",
+            "verb": "missed"
+        },
+        "sentence": "Keith missed the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Julie",
+            "verb": "smashed"
+        },
+        "sentence": "Julie smashed the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Caroline",
+            "verb": "missed"
+        },
+        "sentence": "Caroline missed the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Joan",
+            "verb": "stopped"
+        },
+        "sentence": "Joan stopped the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Jack",
+            "verb": "hit"
+        },
+        "sentence": "Jack hit the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Daniel",
+            "verb": "touched"
+        },
+        "sentence": "Daniel touched the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Maria",
+            "verb": "missed"
+        },
+        "sentence": "Maria missed the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Peter",
+            "verb": "smashed"
+        },
+        "sentence": "Peter smashed the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Evelyn",
+            "verb": "stopped"
+        },
+        "sentence": "Evelyn stopped the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Peter",
+            "verb": "kicked"
+        },
+        "sentence": "Peter kicked the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Ann",
+            "verb": "hit"
+        },
+        "sentence": "Ann hit the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Lauren",
+            "verb": "stopped"
+        },
+        "sentence": "Lauren stopped the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Kathy",
+            "verb": "smashed"
+        },
+        "sentence": "Kathy smashed the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Nick",
+            "verb": "hit"
+        },
+        "sentence": "Nick hit the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Virginia",
+            "verb": "missed"
+        },
+        "sentence": "Virginia missed the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Lucy",
+            "verb": "stopped"
+        },
+        "sentence": "Lucy stopped the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Frederick",
+            "verb": "smashed"
+        },
+        "sentence": "Frederick smashed the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Sharon",
+            "verb": "stopped"
+        },
+        "sentence": "Sharon stopped the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "John",
+            "verb": "smashed"
+        },
+        "sentence": "John smashed the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Judith",
+            "verb": "touched"
+        },
+        "sentence": "Judith touched the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "William",
+            "verb": "smashed"
+        },
+        "sentence": "William smashed the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Michelle",
+            "verb": "kicked"
+        },
+        "sentence": "Michelle kicked the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Emily",
+            "verb": "stopped"
+        },
+        "sentence": "Emily stopped the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Emily",
+            "verb": "smashed"
+        },
+        "sentence": "Emily smashed the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Ruth",
+            "verb": "hit"
+        },
+        "sentence": "Ruth hit the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Amanda",
+            "verb": "kicked"
+        },
+        "sentence": "Amanda kicked the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Alison",
+            "verb": "kicked"
+        },
+        "sentence": "Alison kicked the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Billy",
+            "verb": "smashed"
+        },
+        "sentence": "Billy smashed the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Grace",
+            "verb": "kicked"
+        },
+        "sentence": "Grace kicked the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Kate",
+            "verb": "kicked"
+        },
+        "sentence": "Kate kicked the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Andrea",
+            "verb": "hit"
+        },
+        "sentence": "Andrea hit the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Carolyn",
+            "verb": "missed"
+        },
+        "sentence": "Carolyn missed the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Martha",
+            "verb": "hit"
+        },
+        "sentence": "Martha hit the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "George",
+            "verb": "smashed"
+        },
+        "sentence": "George smashed the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Carolyn",
+            "verb": "hit"
+        },
+        "sentence": "Carolyn hit the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Ashley",
+            "verb": "kicked"
+        },
+        "sentence": "Ashley kicked the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Lisa",
+            "verb": "hit"
+        },
+        "sentence": "Lisa hit the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Virginia",
+            "verb": "missed"
+        },
+        "sentence": "Virginia missed the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Jonathan",
+            "verb": "smashed"
+        },
+        "sentence": "Jonathan smashed the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Howard",
+            "verb": "kicked"
+        },
+        "sentence": "Howard kicked the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Helen",
+            "verb": "smashed"
+        },
+        "sentence": "Helen smashed the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Jimmy",
+            "verb": "missed"
+        },
+        "sentence": "Jimmy missed the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Keith",
+            "verb": "smashed"
+        },
+        "sentence": "Keith smashed the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Emily",
+            "verb": "hit"
+        },
+        "sentence": "Emily hit the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Roger",
+            "verb": "missed"
+        },
+        "sentence": "Roger missed the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Edith",
+            "verb": "smashed"
+        },
+        "sentence": "Edith smashed the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Betty",
+            "verb": "stopped"
+        },
+        "sentence": "Betty stopped the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Sara",
+            "verb": "hit"
+        },
+        "sentence": "Sara hit the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Robin",
+            "verb": "touched"
+        },
+        "sentence": "Robin touched the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Jonathan",
+            "verb": "smashed"
+        },
+        "sentence": "Jonathan smashed the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Karen",
+            "verb": "missed"
+        },
+        "sentence": "Karen missed the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Jessica",
+            "verb": "smashed"
+        },
+        "sentence": "Jessica smashed the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Harriet",
+            "verb": "missed"
+        },
+        "sentence": "Harriet missed the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Rachel",
+            "verb": "stopped"
+        },
+        "sentence": "Rachel stopped the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Jay",
+            "verb": "hit"
+        },
+        "sentence": "Jay hit the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Deborah",
+            "verb": "touched"
+        },
+        "sentence": "Deborah touched the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Amanda",
+            "verb": "hit"
+        },
+        "sentence": "Amanda hit the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Roy",
+            "verb": "missed"
+        },
+        "sentence": "Roy missed the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Edward",
+            "verb": "hit"
+        },
+        "sentence": "Edward hit the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Diane",
+            "verb": "hit"
+        },
+        "sentence": "Diane hit the ball",
+        "testcase_name": "active_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "appearing so fit",
+            "first_name": "Katherine",
+            "verb": "kicked"
+        },
+        "sentence": "Katherine, after appearing so fit, finnaly kicked the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "appearing so fit",
+            "first_name": "Nicole",
+            "verb": "touched"
+        },
+        "sentence": "Nicole, after appearing so fit, finnaly touched the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "celebrating a perfect streak",
+            "first_name": "Robin",
+            "verb": "smashed"
+        },
+        "sentence": "Robin, after celebrating a perfect streak, finnaly smashed the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "suffering from a knee injury",
+            "first_name": "Cynthia",
+            "verb": "stopped"
+        },
+        "sentence": "Cynthia, after suffering from a knee injury, finnaly stopped the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "missing the past three games",
+            "first_name": "Leslie",
+            "verb": "stopped"
+        },
+        "sentence": "Leslie, after missing the past three games, finnaly stopped the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "celebrating a perfect streak",
+            "first_name": "Leslie",
+            "verb": "hit"
+        },
+        "sentence": "Leslie, after celebrating a perfect streak, finnaly hit the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "celebrating a perfect streak",
+            "first_name": "Chris",
+            "verb": "hit"
+        },
+        "sentence": "Chris, after celebrating a perfect streak, finnaly hit the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "suffering from a knee injury",
+            "first_name": "Joe",
+            "verb": "touched"
+        },
+        "sentence": "Joe, after suffering from a knee injury, finnaly touched the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "suffering from a knee injury",
+            "first_name": "Rachel",
+            "verb": "missed"
+        },
+        "sentence": "Rachel, after suffering from a knee injury, finnaly missed the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "missing the past three games",
+            "first_name": "Dave",
+            "verb": "hit"
+        },
+        "sentence": "Dave, after missing the past three games, finnaly hit the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "missing the past three games",
+            "first_name": "Edith",
+            "verb": "hit"
+        },
+        "sentence": "Edith, after missing the past three games, finnaly hit the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "celebrating a perfect streak",
+            "first_name": "Greg",
+            "verb": "stopped"
+        },
+        "sentence": "Greg, after celebrating a perfect streak, finnaly stopped the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "nearly falling down",
+            "first_name": "Nancy",
+            "verb": "touched"
+        },
+        "sentence": "Nancy, after nearly falling down, finnaly touched the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "appearing so fit",
+            "first_name": "Sharon",
+            "verb": "hit"
+        },
+        "sentence": "Sharon, after appearing so fit, finnaly hit the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "nearly falling down",
+            "first_name": "James",
+            "verb": "missed"
+        },
+        "sentence": "James, after nearly falling down, finnaly missed the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "appearing so fit",
+            "first_name": "Ashley",
+            "verb": "touched"
+        },
+        "sentence": "Ashley, after appearing so fit, finnaly touched the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "appearing so fit",
+            "first_name": "Paul",
+            "verb": "missed"
+        },
+        "sentence": "Paul, after appearing so fit, finnaly missed the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "suffering from a knee injury",
+            "first_name": "Louis",
+            "verb": "missed"
+        },
+        "sentence": "Louis, after suffering from a knee injury, finnaly missed the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "suffering from a knee injury",
+            "first_name": "Charles",
+            "verb": "kicked"
+        },
+        "sentence": "Charles, after suffering from a knee injury, finnaly kicked the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "celebrating a perfect streak",
+            "first_name": "Dorothy",
+            "verb": "hit"
+        },
+        "sentence": "Dorothy, after celebrating a perfect streak, finnaly hit the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "missing the past three games",
+            "first_name": "John",
+            "verb": "missed"
+        },
+        "sentence": "John, after missing the past three games, finnaly missed the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "nearly falling down",
+            "first_name": "Keith",
+            "verb": "stopped"
+        },
+        "sentence": "Keith, after nearly falling down, finnaly stopped the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "celebrating a perfect streak",
+            "first_name": "Andrea",
+            "verb": "touched"
+        },
+        "sentence": "Andrea, after celebrating a perfect streak, finnaly touched the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "suffering from a knee injury",
+            "first_name": "Emily",
+            "verb": "smashed"
+        },
+        "sentence": "Emily, after suffering from a knee injury, finnaly smashed the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "missing the past three games",
+            "first_name": "Dan",
+            "verb": "kicked"
+        },
+        "sentence": "Dan, after missing the past three games, finnaly kicked the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "nearly falling down",
+            "first_name": "Sophie",
+            "verb": "missed"
+        },
+        "sentence": "Sophie, after nearly falling down, finnaly missed the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "missing the past three games",
+            "first_name": "Christopher",
+            "verb": "hit"
+        },
+        "sentence": "Christopher, after missing the past three games, finnaly hit the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "suffering from a knee injury",
+            "first_name": "Ron",
+            "verb": "hit"
+        },
+        "sentence": "Ron, after suffering from a knee injury, finnaly hit the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "celebrating a perfect streak",
+            "first_name": "Samuel",
+            "verb": "touched"
+        },
+        "sentence": "Samuel, after celebrating a perfect streak, finnaly touched the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "appearing so fit",
+            "first_name": "Kevin",
+            "verb": "missed"
+        },
+        "sentence": "Kevin, after appearing so fit, finnaly missed the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "appearing so fit",
+            "first_name": "Martha",
+            "verb": "hit"
+        },
+        "sentence": "Martha, after appearing so fit, finnaly hit the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "nearly falling down",
+            "first_name": "Matthew",
+            "verb": "smashed"
+        },
+        "sentence": "Matthew, after nearly falling down, finnaly smashed the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "appearing so fit",
+            "first_name": "Mark",
+            "verb": "touched"
+        },
+        "sentence": "Mark, after appearing so fit, finnaly touched the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "nearly falling down",
+            "first_name": "Robin",
+            "verb": "smashed"
+        },
+        "sentence": "Robin, after nearly falling down, finnaly smashed the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "nearly falling down",
+            "first_name": "Harriet",
+            "verb": "smashed"
+        },
+        "sentence": "Harriet, after nearly falling down, finnaly smashed the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "celebrating a perfect streak",
+            "first_name": "Anne",
+            "verb": "kicked"
+        },
+        "sentence": "Anne, after celebrating a perfect streak, finnaly kicked the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "celebrating a perfect streak",
+            "first_name": "Ruth",
+            "verb": "smashed"
+        },
+        "sentence": "Ruth, after celebrating a perfect streak, finnaly smashed the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "nearly falling down",
+            "first_name": "Lucy",
+            "verb": "kicked"
+        },
+        "sentence": "Lucy, after nearly falling down, finnaly kicked the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "celebrating a perfect streak",
+            "first_name": "Keith",
+            "verb": "hit"
+        },
+        "sentence": "Keith, after celebrating a perfect streak, finnaly hit the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "appearing so fit",
+            "first_name": "Thomas",
+            "verb": "smashed"
+        },
+        "sentence": "Thomas, after appearing so fit, finnaly smashed the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "suffering from a knee injury",
+            "first_name": "Claire",
+            "verb": "kicked"
+        },
+        "sentence": "Claire, after suffering from a knee injury, finnaly kicked the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "suffering from a knee injury",
+            "first_name": "Hugh",
+            "verb": "missed"
+        },
+        "sentence": "Hugh, after suffering from a knee injury, finnaly missed the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "celebrating a perfect streak",
+            "first_name": "Bob",
+            "verb": "touched"
+        },
+        "sentence": "Bob, after celebrating a perfect streak, finnaly touched the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "celebrating a perfect streak",
+            "first_name": "Charles",
+            "verb": "touched"
+        },
+        "sentence": "Charles, after celebrating a perfect streak, finnaly touched the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "appearing so fit",
+            "first_name": "Carl",
+            "verb": "missed"
+        },
+        "sentence": "Carl, after appearing so fit, finnaly missed the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "celebrating a perfect streak",
+            "first_name": "Jim",
+            "verb": "kicked"
+        },
+        "sentence": "Jim, after celebrating a perfect streak, finnaly kicked the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "appearing so fit",
+            "first_name": "Nancy",
+            "verb": "missed"
+        },
+        "sentence": "Nancy, after appearing so fit, finnaly missed the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "celebrating a perfect streak",
+            "first_name": "Alexander",
+            "verb": "missed"
+        },
+        "sentence": "Alexander, after celebrating a perfect streak, finnaly missed the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "nearly falling down",
+            "first_name": "John",
+            "verb": "touched"
+        },
+        "sentence": "John, after nearly falling down, finnaly touched the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "nearly falling down",
+            "first_name": "Dan",
+            "verb": "stopped"
+        },
+        "sentence": "Dan, after nearly falling down, finnaly stopped the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "missing the past three games",
+            "first_name": "Robin",
+            "verb": "missed"
+        },
+        "sentence": "Robin, after missing the past three games, finnaly missed the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "nearly falling down",
+            "first_name": "Christopher",
+            "verb": "smashed"
+        },
+        "sentence": "Christopher, after nearly falling down, finnaly smashed the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "celebrating a perfect streak",
+            "first_name": "William",
+            "verb": "hit"
+        },
+        "sentence": "William, after celebrating a perfect streak, finnaly hit the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "suffering from a knee injury",
+            "first_name": "Elizabeth",
+            "verb": "kicked"
+        },
+        "sentence": "Elizabeth, after suffering from a knee injury, finnaly kicked the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "celebrating a perfect streak",
+            "first_name": "Melissa",
+            "verb": "hit"
+        },
+        "sentence": "Melissa, after celebrating a perfect streak, finnaly hit the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "nearly falling down",
+            "first_name": "Edwin",
+            "verb": "stopped"
+        },
+        "sentence": "Edwin, after nearly falling down, finnaly stopped the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "suffering from a knee injury",
+            "first_name": "Johnny",
+            "verb": "hit"
+        },
+        "sentence": "Johnny, after suffering from a knee injury, finnaly hit the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "nearly falling down",
+            "first_name": "Victoria",
+            "verb": "missed"
+        },
+        "sentence": "Victoria, after nearly falling down, finnaly missed the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "nearly falling down",
+            "first_name": "Fred",
+            "verb": "hit"
+        },
+        "sentence": "Fred, after nearly falling down, finnaly hit the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "appearing so fit",
+            "first_name": "Alfred",
+            "verb": "stopped"
+        },
+        "sentence": "Alfred, after appearing so fit, finnaly stopped the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "celebrating a perfect streak",
+            "first_name": "Jane",
+            "verb": "missed"
+        },
+        "sentence": "Jane, after celebrating a perfect streak, finnaly missed the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "appearing so fit",
+            "first_name": "Simon",
+            "verb": "hit"
+        },
+        "sentence": "Simon, after appearing so fit, finnaly hit the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "missing the past three games",
+            "first_name": "Rachel",
+            "verb": "touched"
+        },
+        "sentence": "Rachel, after missing the past three games, finnaly touched the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "suffering from a knee injury",
+            "first_name": "Roy",
+            "verb": "smashed"
+        },
+        "sentence": "Roy, after suffering from a knee injury, finnaly smashed the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "appearing so fit",
+            "first_name": "Judy",
+            "verb": "stopped"
+        },
+        "sentence": "Judy, after appearing so fit, finnaly stopped the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "nearly falling down",
+            "first_name": "Lucy",
+            "verb": "hit"
+        },
+        "sentence": "Lucy, after nearly falling down, finnaly hit the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "suffering from a knee injury",
+            "first_name": "Peter",
+            "verb": "hit"
+        },
+        "sentence": "Peter, after suffering from a knee injury, finnaly hit the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "nearly falling down",
+            "first_name": "Kathleen",
+            "verb": "missed"
+        },
+        "sentence": "Kathleen, after nearly falling down, finnaly missed the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "nearly falling down",
+            "first_name": "Joan",
+            "verb": "kicked"
+        },
+        "sentence": "Joan, after nearly falling down, finnaly kicked the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "missing the past three games",
+            "first_name": "Steven",
+            "verb": "touched"
+        },
+        "sentence": "Steven, after missing the past three games, finnaly touched the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "missing the past three games",
+            "first_name": "Dave",
+            "verb": "kicked"
+        },
+        "sentence": "Dave, after missing the past three games, finnaly kicked the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "missing the past three games",
+            "first_name": "Sara",
+            "verb": "touched"
+        },
+        "sentence": "Sara, after missing the past three games, finnaly touched the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "appearing so fit",
+            "first_name": "Kim",
+            "verb": "touched"
+        },
+        "sentence": "Kim, after appearing so fit, finnaly touched the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "nearly falling down",
+            "first_name": "Ralph",
+            "verb": "touched"
+        },
+        "sentence": "Ralph, after nearly falling down, finnaly touched the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "nearly falling down",
+            "first_name": "Elaine",
+            "verb": "stopped"
+        },
+        "sentence": "Elaine, after nearly falling down, finnaly stopped the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "celebrating a perfect streak",
+            "first_name": "Carl",
+            "verb": "missed"
+        },
+        "sentence": "Carl, after celebrating a perfect streak, finnaly missed the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "suffering from a knee injury",
+            "first_name": "Matthew",
+            "verb": "missed"
+        },
+        "sentence": "Matthew, after suffering from a knee injury, finnaly missed the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "celebrating a perfect streak",
+            "first_name": "Harriet",
+            "verb": "stopped"
+        },
+        "sentence": "Harriet, after celebrating a perfect streak, finnaly stopped the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "appearing so fit",
+            "first_name": "James",
+            "verb": "smashed"
+        },
+        "sentence": "James, after appearing so fit, finnaly smashed the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "nearly falling down",
+            "first_name": "Caroline",
+            "verb": "kicked"
+        },
+        "sentence": "Caroline, after nearly falling down, finnaly kicked the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "celebrating a perfect streak",
+            "first_name": "Jennifer",
+            "verb": "touched"
+        },
+        "sentence": "Jennifer, after celebrating a perfect streak, finnaly touched the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "appearing so fit",
+            "first_name": "Sharon",
+            "verb": "stopped"
+        },
+        "sentence": "Sharon, after appearing so fit, finnaly stopped the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "celebrating a perfect streak",
+            "first_name": "Emma",
+            "verb": "stopped"
+        },
+        "sentence": "Emma, after celebrating a perfect streak, finnaly stopped the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "nearly falling down",
+            "first_name": "Alison",
+            "verb": "kicked"
+        },
+        "sentence": "Alison, after nearly falling down, finnaly kicked the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "suffering from a knee injury",
+            "first_name": "Tom",
+            "verb": "kicked"
+        },
+        "sentence": "Tom, after suffering from a knee injury, finnaly kicked the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "celebrating a perfect streak",
+            "first_name": "Nancy",
+            "verb": "hit"
+        },
+        "sentence": "Nancy, after celebrating a perfect streak, finnaly hit the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "missing the past three games",
+            "first_name": "Ruth",
+            "verb": "smashed"
+        },
+        "sentence": "Ruth, after missing the past three games, finnaly smashed the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "nearly falling down",
+            "first_name": "Diane",
+            "verb": "smashed"
+        },
+        "sentence": "Diane, after nearly falling down, finnaly smashed the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "missing the past three games",
+            "first_name": "Arthur",
+            "verb": "smashed"
+        },
+        "sentence": "Arthur, after missing the past three games, finnaly smashed the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "suffering from a knee injury",
+            "first_name": "Sally",
+            "verb": "touched"
+        },
+        "sentence": "Sally, after suffering from a knee injury, finnaly touched the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "appearing so fit",
+            "first_name": "Maria",
+            "verb": "touched"
+        },
+        "sentence": "Maria, after appearing so fit, finnaly touched the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "celebrating a perfect streak",
+            "first_name": "Tony",
+            "verb": "hit"
+        },
+        "sentence": "Tony, after celebrating a perfect streak, finnaly hit the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "nearly falling down",
+            "first_name": "Don",
+            "verb": "stopped"
+        },
+        "sentence": "Don, after nearly falling down, finnaly stopped the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "nearly falling down",
+            "first_name": "Bill",
+            "verb": "stopped"
+        },
+        "sentence": "Bill, after nearly falling down, finnaly stopped the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "nearly falling down",
+            "first_name": "Patricia",
+            "verb": "kicked"
+        },
+        "sentence": "Patricia, after nearly falling down, finnaly kicked the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "suffering from a knee injury",
+            "first_name": "Jennifer",
+            "verb": "hit"
+        },
+        "sentence": "Jennifer, after suffering from a knee injury, finnaly hit the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "missing the past three games",
+            "first_name": "Adam",
+            "verb": "hit"
+        },
+        "sentence": "Adam, after missing the past three games, finnaly hit the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "celebrating a perfect streak",
+            "first_name": "Bob",
+            "verb": "stopped"
+        },
+        "sentence": "Bob, after celebrating a perfect streak, finnaly stopped the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "celebrating a perfect streak",
+            "first_name": "Sophie",
+            "verb": "missed"
+        },
+        "sentence": "Sophie, after celebrating a perfect streak, finnaly missed the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "filler": "nearly falling down",
+            "first_name": "Benjamin",
+            "verb": "stopped"
+        },
+        "sentence": "Benjamin, after nearly falling down, finnaly stopped the ball",
+        "testcase_name": "active_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Dan",
+            "verb": "stopped"
+        },
+        "sentence": "The ball was stopped by Dan",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "David",
+            "verb": "smashed"
+        },
+        "sentence": "The ball was smashed by David",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Robin",
+            "verb": "smashed"
+        },
+        "sentence": "The ball was smashed by Robin",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Charles",
+            "verb": "smashed"
+        },
+        "sentence": "The ball was smashed by Charles",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Jonathan",
+            "verb": "missed"
+        },
+        "sentence": "The ball was missed by Jonathan",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Judy",
+            "verb": "stopped"
+        },
+        "sentence": "The ball was stopped by Judy",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Diane",
+            "verb": "hit"
+        },
+        "sentence": "The ball was hit by Diane",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Jerry",
+            "verb": "touched"
+        },
+        "sentence": "The ball was touched by Jerry",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Eleanor",
+            "verb": "missed"
+        },
+        "sentence": "The ball was missed by Eleanor",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Nicole",
+            "verb": "kicked"
+        },
+        "sentence": "The ball was kicked by Nicole",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Greg",
+            "verb": "kicked"
+        },
+        "sentence": "The ball was kicked by Greg",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Virginia",
+            "verb": "stopped"
+        },
+        "sentence": "The ball was stopped by Virginia",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Alexander",
+            "verb": "kicked"
+        },
+        "sentence": "The ball was kicked by Alexander",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Jonathan",
+            "verb": "touched"
+        },
+        "sentence": "The ball was touched by Jonathan",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Virginia",
+            "verb": "missed"
+        },
+        "sentence": "The ball was missed by Virginia",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Melissa",
+            "verb": "kicked"
+        },
+        "sentence": "The ball was kicked by Melissa",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Joseph",
+            "verb": "smashed"
+        },
+        "sentence": "The ball was smashed by Joseph",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Joseph",
+            "verb": "smashed"
+        },
+        "sentence": "The ball was smashed by Joseph",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Lisa",
+            "verb": "touched"
+        },
+        "sentence": "The ball was touched by Lisa",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Arthur",
+            "verb": "kicked"
+        },
+        "sentence": "The ball was kicked by Arthur",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Bruce",
+            "verb": "touched"
+        },
+        "sentence": "The ball was touched by Bruce",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Sam",
+            "verb": "stopped"
+        },
+        "sentence": "The ball was stopped by Sam",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "George",
+            "verb": "smashed"
+        },
+        "sentence": "The ball was smashed by George",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Alex",
+            "verb": "kicked"
+        },
+        "sentence": "The ball was kicked by Alex",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Jean",
+            "verb": "touched"
+        },
+        "sentence": "The ball was touched by Jean",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Lynn",
+            "verb": "smashed"
+        },
+        "sentence": "The ball was smashed by Lynn",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Kathryn",
+            "verb": "kicked"
+        },
+        "sentence": "The ball was kicked by Kathryn",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Dan",
+            "verb": "missed"
+        },
+        "sentence": "The ball was missed by Dan",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Marie",
+            "verb": "missed"
+        },
+        "sentence": "The ball was missed by Marie",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Amanda",
+            "verb": "smashed"
+        },
+        "sentence": "The ball was smashed by Amanda",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Christopher",
+            "verb": "stopped"
+        },
+        "sentence": "The ball was stopped by Christopher",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Pamela",
+            "verb": "missed"
+        },
+        "sentence": "The ball was missed by Pamela",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Jim",
+            "verb": "hit"
+        },
+        "sentence": "The ball was hit by Jim",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Rachel",
+            "verb": "kicked"
+        },
+        "sentence": "The ball was kicked by Rachel",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Arthur",
+            "verb": "kicked"
+        },
+        "sentence": "The ball was kicked by Arthur",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Sue",
+            "verb": "touched"
+        },
+        "sentence": "The ball was touched by Sue",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Chris",
+            "verb": "hit"
+        },
+        "sentence": "The ball was hit by Chris",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Janet",
+            "verb": "smashed"
+        },
+        "sentence": "The ball was smashed by Janet",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Bruce",
+            "verb": "missed"
+        },
+        "sentence": "The ball was missed by Bruce",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Kelly",
+            "verb": "hit"
+        },
+        "sentence": "The ball was hit by Kelly",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Rose",
+            "verb": "touched"
+        },
+        "sentence": "The ball was touched by Rose",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Betty",
+            "verb": "hit"
+        },
+        "sentence": "The ball was hit by Betty",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Alfred",
+            "verb": "stopped"
+        },
+        "sentence": "The ball was stopped by Alfred",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Karen",
+            "verb": "kicked"
+        },
+        "sentence": "The ball was kicked by Karen",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Charlie",
+            "verb": "hit"
+        },
+        "sentence": "The ball was hit by Charlie",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Alan",
+            "verb": "smashed"
+        },
+        "sentence": "The ball was smashed by Alan",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Jane",
+            "verb": "hit"
+        },
+        "sentence": "The ball was hit by Jane",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Charles",
+            "verb": "stopped"
+        },
+        "sentence": "The ball was stopped by Charles",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Sally",
+            "verb": "hit"
+        },
+        "sentence": "The ball was hit by Sally",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Harold",
+            "verb": "smashed"
+        },
+        "sentence": "The ball was smashed by Harold",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Catherine",
+            "verb": "hit"
+        },
+        "sentence": "The ball was hit by Catherine",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Louise",
+            "verb": "hit"
+        },
+        "sentence": "The ball was hit by Louise",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Carl",
+            "verb": "smashed"
+        },
+        "sentence": "The ball was smashed by Carl",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Fred",
+            "verb": "touched"
+        },
+        "sentence": "The ball was touched by Fred",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Nick",
+            "verb": "touched"
+        },
+        "sentence": "The ball was touched by Nick",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Alan",
+            "verb": "missed"
+        },
+        "sentence": "The ball was missed by Alan",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Donald",
+            "verb": "smashed"
+        },
+        "sentence": "The ball was smashed by Donald",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Jerry",
+            "verb": "stopped"
+        },
+        "sentence": "The ball was stopped by Jerry",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Alexander",
+            "verb": "touched"
+        },
+        "sentence": "The ball was touched by Alexander",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Heather",
+            "verb": "hit"
+        },
+        "sentence": "The ball was hit by Heather",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Jessica",
+            "verb": "hit"
+        },
+        "sentence": "The ball was hit by Jessica",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Emily",
+            "verb": "smashed"
+        },
+        "sentence": "The ball was smashed by Emily",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Nicole",
+            "verb": "missed"
+        },
+        "sentence": "The ball was missed by Nicole",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Joan",
+            "verb": "smashed"
+        },
+        "sentence": "The ball was smashed by Joan",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Janet",
+            "verb": "kicked"
+        },
+        "sentence": "The ball was kicked by Janet",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "David",
+            "verb": "stopped"
+        },
+        "sentence": "The ball was stopped by David",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Kathryn",
+            "verb": "smashed"
+        },
+        "sentence": "The ball was smashed by Kathryn",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Anna",
+            "verb": "stopped"
+        },
+        "sentence": "The ball was stopped by Anna",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Sarah",
+            "verb": "smashed"
+        },
+        "sentence": "The ball was smashed by Sarah",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Michelle",
+            "verb": "kicked"
+        },
+        "sentence": "The ball was kicked by Michelle",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Ben",
+            "verb": "kicked"
+        },
+        "sentence": "The ball was kicked by Ben",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Patrick",
+            "verb": "missed"
+        },
+        "sentence": "The ball was missed by Patrick",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Bruce",
+            "verb": "hit"
+        },
+        "sentence": "The ball was hit by Bruce",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Benjamin",
+            "verb": "kicked"
+        },
+        "sentence": "The ball was kicked by Benjamin",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Ruth",
+            "verb": "smashed"
+        },
+        "sentence": "The ball was smashed by Ruth",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Caroline",
+            "verb": "touched"
+        },
+        "sentence": "The ball was touched by Caroline",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Jill",
+            "verb": "kicked"
+        },
+        "sentence": "The ball was kicked by Jill",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Frank",
+            "verb": "touched"
+        },
+        "sentence": "The ball was touched by Frank",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Steven",
+            "verb": "hit"
+        },
+        "sentence": "The ball was hit by Steven",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Robert",
+            "verb": "touched"
+        },
+        "sentence": "The ball was touched by Robert",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Kathryn",
+            "verb": "touched"
+        },
+        "sentence": "The ball was touched by Kathryn",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Hugh",
+            "verb": "kicked"
+        },
+        "sentence": "The ball was kicked by Hugh",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Robert",
+            "verb": "smashed"
+        },
+        "sentence": "The ball was smashed by Robert",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Roy",
+            "verb": "touched"
+        },
+        "sentence": "The ball was touched by Roy",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Nancy",
+            "verb": "stopped"
+        },
+        "sentence": "The ball was stopped by Nancy",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Matthew",
+            "verb": "hit"
+        },
+        "sentence": "The ball was hit by Matthew",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Matt",
+            "verb": "hit"
+        },
+        "sentence": "The ball was hit by Matt",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Emma",
+            "verb": "kicked"
+        },
+        "sentence": "The ball was kicked by Emma",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "John",
+            "verb": "touched"
+        },
+        "sentence": "The ball was touched by John",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "David",
+            "verb": "hit"
+        },
+        "sentence": "The ball was hit by David",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Ralph",
+            "verb": "hit"
+        },
+        "sentence": "The ball was hit by Ralph",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Jay",
+            "verb": "missed"
+        },
+        "sentence": "The ball was missed by Jay",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Bob",
+            "verb": "hit"
+        },
+        "sentence": "The ball was hit by Bob",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Colin",
+            "verb": "missed"
+        },
+        "sentence": "The ball was missed by Colin",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Anna",
+            "verb": "touched"
+        },
+        "sentence": "The ball was touched by Anna",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Gary",
+            "verb": "touched"
+        },
+        "sentence": "The ball was touched by Gary",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Anthony",
+            "verb": "hit"
+        },
+        "sentence": "The ball was hit by Anthony",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Jean",
+            "verb": "stopped"
+        },
+        "sentence": "The ball was stopped by Jean",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Kim",
+            "verb": "stopped"
+        },
+        "sentence": "The ball was stopped by Kim",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Fred",
+            "verb": "touched"
+        },
+        "sentence": "The ball was touched by Fred",
+        "testcase_name": "passive_small_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Edwin",
+            "precedent": "some time",
+            "verb": "kicked"
+        },
+        "sentence": "The ball was kicked after some time by Edwin",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Karen",
+            "precedent": "some time",
+            "verb": "hit"
+        },
+        "sentence": "The ball was hit after some time by Karen",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Katherine",
+            "precedent": "lying there for a while",
+            "verb": "smashed"
+        },
+        "sentence": "The ball was smashed after lying there for a while by Katherine",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Jason",
+            "precedent": "a boring match",
+            "verb": "missed"
+        },
+        "sentence": "The ball was missed after a boring match by Jason",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Jill",
+            "precedent": "a boring match",
+            "verb": "stopped"
+        },
+        "sentence": "The ball was stopped after a boring match by Jill",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Janet",
+            "precedent": "a boring match",
+            "verb": "hit"
+        },
+        "sentence": "The ball was hit after a boring match by Janet",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Louise",
+            "precedent": "some time",
+            "verb": "stopped"
+        },
+        "sentence": "The ball was stopped after some time by Louise",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Alice",
+            "precedent": "three nerve-wrecking minutes",
+            "verb": "smashed"
+        },
+        "sentence": "The ball was smashed after three nerve-wrecking minutes by Alice",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Jean",
+            "precedent": "three nerve-wrecking minutes",
+            "verb": "kicked"
+        },
+        "sentence": "The ball was kicked after three nerve-wrecking minutes by Jean",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Karen",
+            "precedent": "some time",
+            "verb": "smashed"
+        },
+        "sentence": "The ball was smashed after some time by Karen",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Kim",
+            "precedent": "three nerve-wrecking minutes",
+            "verb": "kicked"
+        },
+        "sentence": "The ball was kicked after three nerve-wrecking minutes by Kim",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Jane",
+            "precedent": "three nerve-wrecking minutes",
+            "verb": "touched"
+        },
+        "sentence": "The ball was touched after three nerve-wrecking minutes by Jane",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Diana",
+            "precedent": "lying there for a while",
+            "verb": "missed"
+        },
+        "sentence": "The ball was missed after lying there for a while by Diana",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Virginia",
+            "precedent": "a boring match",
+            "verb": "hit"
+        },
+        "sentence": "The ball was hit after a boring match by Virginia",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Ralph",
+            "precedent": "lying there for a while",
+            "verb": "touched"
+        },
+        "sentence": "The ball was touched after lying there for a while by Ralph",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Jimmy",
+            "precedent": "three nerve-wrecking minutes",
+            "verb": "touched"
+        },
+        "sentence": "The ball was touched after three nerve-wrecking minutes by Jimmy",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Eric",
+            "precedent": "a boring match",
+            "verb": "smashed"
+        },
+        "sentence": "The ball was smashed after a boring match by Eric",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Nancy",
+            "precedent": "three nerve-wrecking minutes",
+            "verb": "smashed"
+        },
+        "sentence": "The ball was smashed after three nerve-wrecking minutes by Nancy",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Donna",
+            "precedent": "some time",
+            "verb": "smashed"
+        },
+        "sentence": "The ball was smashed after some time by Donna",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Howard",
+            "precedent": "some time",
+            "verb": "missed"
+        },
+        "sentence": "The ball was missed after some time by Howard",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Robert",
+            "precedent": "some time",
+            "verb": "stopped"
+        },
+        "sentence": "The ball was stopped after some time by Robert",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Jennifer",
+            "precedent": "some time",
+            "verb": "missed"
+        },
+        "sentence": "The ball was missed after some time by Jennifer",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Alice",
+            "precedent": "three nerve-wrecking minutes",
+            "verb": "missed"
+        },
+        "sentence": "The ball was missed after three nerve-wrecking minutes by Alice",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Alfred",
+            "precedent": "a boring match",
+            "verb": "smashed"
+        },
+        "sentence": "The ball was smashed after a boring match by Alfred",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Mike",
+            "precedent": "three nerve-wrecking minutes",
+            "verb": "missed"
+        },
+        "sentence": "The ball was missed after three nerve-wrecking minutes by Mike",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Carolyn",
+            "precedent": "three nerve-wrecking minutes",
+            "verb": "hit"
+        },
+        "sentence": "The ball was hit after three nerve-wrecking minutes by Carolyn",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Harry",
+            "precedent": "three nerve-wrecking minutes",
+            "verb": "missed"
+        },
+        "sentence": "The ball was missed after three nerve-wrecking minutes by Harry",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Kate",
+            "precedent": "a boring match",
+            "verb": "kicked"
+        },
+        "sentence": "The ball was kicked after a boring match by Kate",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Emily",
+            "precedent": "a boring match",
+            "verb": "kicked"
+        },
+        "sentence": "The ball was kicked after a boring match by Emily",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Billy",
+            "precedent": "lying there for a while",
+            "verb": "smashed"
+        },
+        "sentence": "The ball was smashed after lying there for a while by Billy",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Donna",
+            "precedent": "three nerve-wrecking minutes",
+            "verb": "missed"
+        },
+        "sentence": "The ball was missed after three nerve-wrecking minutes by Donna",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Alice",
+            "precedent": "three nerve-wrecking minutes",
+            "verb": "missed"
+        },
+        "sentence": "The ball was missed after three nerve-wrecking minutes by Alice",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Catherine",
+            "precedent": "three nerve-wrecking minutes",
+            "verb": "stopped"
+        },
+        "sentence": "The ball was stopped after three nerve-wrecking minutes by Catherine",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Howard",
+            "precedent": "three nerve-wrecking minutes",
+            "verb": "stopped"
+        },
+        "sentence": "The ball was stopped after three nerve-wrecking minutes by Howard",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Emma",
+            "precedent": "three nerve-wrecking minutes",
+            "verb": "touched"
+        },
+        "sentence": "The ball was touched after three nerve-wrecking minutes by Emma",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Ken",
+            "precedent": "a boring match",
+            "verb": "missed"
+        },
+        "sentence": "The ball was missed after a boring match by Ken",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Walter",
+            "precedent": "lying there for a while",
+            "verb": "smashed"
+        },
+        "sentence": "The ball was smashed after lying there for a while by Walter",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Francis",
+            "precedent": "a boring match",
+            "verb": "stopped"
+        },
+        "sentence": "The ball was stopped after a boring match by Francis",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Ian",
+            "precedent": "three nerve-wrecking minutes",
+            "verb": "smashed"
+        },
+        "sentence": "The ball was smashed after three nerve-wrecking minutes by Ian",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Ray",
+            "precedent": "a boring match",
+            "verb": "touched"
+        },
+        "sentence": "The ball was touched after a boring match by Ray",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Dorothy",
+            "precedent": "three nerve-wrecking minutes",
+            "verb": "kicked"
+        },
+        "sentence": "The ball was kicked after three nerve-wrecking minutes by Dorothy",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Lawrence",
+            "precedent": "three nerve-wrecking minutes",
+            "verb": "missed"
+        },
+        "sentence": "The ball was missed after three nerve-wrecking minutes by Lawrence",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Charlotte",
+            "precedent": "lying there for a while",
+            "verb": "missed"
+        },
+        "sentence": "The ball was missed after lying there for a while by Charlotte",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Katie",
+            "precedent": "a boring match",
+            "verb": "smashed"
+        },
+        "sentence": "The ball was smashed after a boring match by Katie",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Edward",
+            "precedent": "a boring match",
+            "verb": "kicked"
+        },
+        "sentence": "The ball was kicked after a boring match by Edward",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Alexandra",
+            "precedent": "three nerve-wrecking minutes",
+            "verb": "stopped"
+        },
+        "sentence": "The ball was stopped after three nerve-wrecking minutes by Alexandra",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Nick",
+            "precedent": "lying there for a while",
+            "verb": "stopped"
+        },
+        "sentence": "The ball was stopped after lying there for a while by Nick",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Alan",
+            "precedent": "three nerve-wrecking minutes",
+            "verb": "touched"
+        },
+        "sentence": "The ball was touched after three nerve-wrecking minutes by Alan",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Ed",
+            "precedent": "lying there for a while",
+            "verb": "hit"
+        },
+        "sentence": "The ball was hit after lying there for a while by Ed",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Dan",
+            "precedent": "three nerve-wrecking minutes",
+            "verb": "stopped"
+        },
+        "sentence": "The ball was stopped after three nerve-wrecking minutes by Dan",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Ann",
+            "precedent": "three nerve-wrecking minutes",
+            "verb": "hit"
+        },
+        "sentence": "The ball was hit after three nerve-wrecking minutes by Ann",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Sarah",
+            "precedent": "a boring match",
+            "verb": "touched"
+        },
+        "sentence": "The ball was touched after a boring match by Sarah",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Ryan",
+            "precedent": "some time",
+            "verb": "smashed"
+        },
+        "sentence": "The ball was smashed after some time by Ryan",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Annie",
+            "precedent": "three nerve-wrecking minutes",
+            "verb": "missed"
+        },
+        "sentence": "The ball was missed after three nerve-wrecking minutes by Annie",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Roy",
+            "precedent": "lying there for a while",
+            "verb": "kicked"
+        },
+        "sentence": "The ball was kicked after lying there for a while by Roy",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Kevin",
+            "precedent": "three nerve-wrecking minutes",
+            "verb": "missed"
+        },
+        "sentence": "The ball was missed after three nerve-wrecking minutes by Kevin",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Adam",
+            "precedent": "some time",
+            "verb": "kicked"
+        },
+        "sentence": "The ball was kicked after some time by Adam",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Frances",
+            "precedent": "lying there for a while",
+            "verb": "kicked"
+        },
+        "sentence": "The ball was kicked after lying there for a while by Frances",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Daniel",
+            "precedent": "a boring match",
+            "verb": "missed"
+        },
+        "sentence": "The ball was missed after a boring match by Daniel",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Don",
+            "precedent": "three nerve-wrecking minutes",
+            "verb": "missed"
+        },
+        "sentence": "The ball was missed after three nerve-wrecking minutes by Don",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "David",
+            "precedent": "a boring match",
+            "verb": "hit"
+        },
+        "sentence": "The ball was hit after a boring match by David",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Patrick",
+            "precedent": "a boring match",
+            "verb": "stopped"
+        },
+        "sentence": "The ball was stopped after a boring match by Patrick",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Christopher",
+            "precedent": "lying there for a while",
+            "verb": "kicked"
+        },
+        "sentence": "The ball was kicked after lying there for a while by Christopher",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Sarah",
+            "precedent": "three nerve-wrecking minutes",
+            "verb": "smashed"
+        },
+        "sentence": "The ball was smashed after three nerve-wrecking minutes by Sarah",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Diana",
+            "precedent": "lying there for a while",
+            "verb": "stopped"
+        },
+        "sentence": "The ball was stopped after lying there for a while by Diana",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Don",
+            "precedent": "lying there for a while",
+            "verb": "smashed"
+        },
+        "sentence": "The ball was smashed after lying there for a while by Don",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Deborah",
+            "precedent": "lying there for a while",
+            "verb": "missed"
+        },
+        "sentence": "The ball was missed after lying there for a while by Deborah",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Rose",
+            "precedent": "some time",
+            "verb": "stopped"
+        },
+        "sentence": "The ball was stopped after some time by Rose",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Janet",
+            "precedent": "a boring match",
+            "verb": "hit"
+        },
+        "sentence": "The ball was hit after a boring match by Janet",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Robin",
+            "precedent": "some time",
+            "verb": "stopped"
+        },
+        "sentence": "The ball was stopped after some time by Robin",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Elaine",
+            "precedent": "a boring match",
+            "verb": "smashed"
+        },
+        "sentence": "The ball was smashed after a boring match by Elaine",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Lucy",
+            "precedent": "three nerve-wrecking minutes",
+            "verb": "touched"
+        },
+        "sentence": "The ball was touched after three nerve-wrecking minutes by Lucy",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Andrew",
+            "precedent": "some time",
+            "verb": "smashed"
+        },
+        "sentence": "The ball was smashed after some time by Andrew",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Hugh",
+            "precedent": "a boring match",
+            "verb": "missed"
+        },
+        "sentence": "The ball was missed after a boring match by Hugh",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Linda",
+            "precedent": "a boring match",
+            "verb": "smashed"
+        },
+        "sentence": "The ball was smashed after a boring match by Linda",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Melissa",
+            "precedent": "three nerve-wrecking minutes",
+            "verb": "touched"
+        },
+        "sentence": "The ball was touched after three nerve-wrecking minutes by Melissa",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Sally",
+            "precedent": "a boring match",
+            "verb": "stopped"
+        },
+        "sentence": "The ball was stopped after a boring match by Sally",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Karen",
+            "precedent": "some time",
+            "verb": "stopped"
+        },
+        "sentence": "The ball was stopped after some time by Karen",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Greg",
+            "precedent": "some time",
+            "verb": "hit"
+        },
+        "sentence": "The ball was hit after some time by Greg",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Samuel",
+            "precedent": "some time",
+            "verb": "stopped"
+        },
+        "sentence": "The ball was stopped after some time by Samuel",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Sally",
+            "precedent": "a boring match",
+            "verb": "stopped"
+        },
+        "sentence": "The ball was stopped after a boring match by Sally",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "George",
+            "precedent": "three nerve-wrecking minutes",
+            "verb": "smashed"
+        },
+        "sentence": "The ball was smashed after three nerve-wrecking minutes by George",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Richard",
+            "precedent": "some time",
+            "verb": "missed"
+        },
+        "sentence": "The ball was missed after some time by Richard",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Wendy",
+            "precedent": "some time",
+            "verb": "missed"
+        },
+        "sentence": "The ball was missed after some time by Wendy",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Kelly",
+            "precedent": "some time",
+            "verb": "hit"
+        },
+        "sentence": "The ball was hit after some time by Kelly",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Kathy",
+            "precedent": "lying there for a while",
+            "verb": "stopped"
+        },
+        "sentence": "The ball was stopped after lying there for a while by Kathy",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Rachel",
+            "precedent": "three nerve-wrecking minutes",
+            "verb": "touched"
+        },
+        "sentence": "The ball was touched after three nerve-wrecking minutes by Rachel",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Matt",
+            "precedent": "lying there for a while",
+            "verb": "hit"
+        },
+        "sentence": "The ball was hit after lying there for a while by Matt",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Katie",
+            "precedent": "three nerve-wrecking minutes",
+            "verb": "missed"
+        },
+        "sentence": "The ball was missed after three nerve-wrecking minutes by Katie",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Steve",
+            "precedent": "three nerve-wrecking minutes",
+            "verb": "touched"
+        },
+        "sentence": "The ball was touched after three nerve-wrecking minutes by Steve",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Alexandra",
+            "precedent": "three nerve-wrecking minutes",
+            "verb": "stopped"
+        },
+        "sentence": "The ball was stopped after three nerve-wrecking minutes by Alexandra",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "James",
+            "precedent": "lying there for a while",
+            "verb": "stopped"
+        },
+        "sentence": "The ball was stopped after lying there for a while by James",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Catherine",
+            "precedent": "some time",
+            "verb": "missed"
+        },
+        "sentence": "The ball was missed after some time by Catherine",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Laura",
+            "precedent": "three nerve-wrecking minutes",
+            "verb": "smashed"
+        },
+        "sentence": "The ball was smashed after three nerve-wrecking minutes by Laura",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Andrea",
+            "precedent": "three nerve-wrecking minutes",
+            "verb": "touched"
+        },
+        "sentence": "The ball was touched after three nerve-wrecking minutes by Andrea",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Amanda",
+            "precedent": "some time",
+            "verb": "hit"
+        },
+        "sentence": "The ball was hit after some time by Amanda",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Lauren",
+            "precedent": "three nerve-wrecking minutes",
+            "verb": "missed"
+        },
+        "sentence": "The ball was missed after three nerve-wrecking minutes by Lauren",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Peter",
+            "precedent": "lying there for a while",
+            "verb": "smashed"
+        },
+        "sentence": "The ball was smashed after lying there for a while by Peter",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Charlie",
+            "precedent": "some time",
+            "verb": "stopped"
+        },
+        "sentence": "The ball was stopped after some time by Charlie",
+        "testcase_name": "passive_large_distance"
+    },
+    {
+        "capability": "agent_small_long_recognition",
+        "meta": {
+            "first_name": "Laura",
+            "precedent": "lying there for a while",
+            "verb": "stopped"
+        },
+        "sentence": "The ball was stopped after lying there for a while by Laura",
+        "testcase_name": "passive_large_distance"
+    }
+]

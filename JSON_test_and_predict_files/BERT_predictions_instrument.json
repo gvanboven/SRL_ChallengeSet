@@ -1,0 +1,6602 @@
+[
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Michelle] [V: hit] [ARG1: the door] [ARG2: with the bottle]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Michelle",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "bottle"
+            ]
+        },
+        "sentence": "Michelle hit the door with the bottle",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Henry] [V: hit] [ARG1: the door] [ARG2: with the racket]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Henry",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "racket"
+            ]
+        },
+        "sentence": "Henry hit the door with the racket",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Sharon] [V: hit] [ARG1: the door] [ARG2: with the racket]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Sharon",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "racket"
+            ]
+        },
+        "sentence": "Sharon hit the door with the racket",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Andrea] [V: hit] [ARG1: the door] [ARG2: with the knife]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Andrea",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "knife"
+            ]
+        },
+        "sentence": "Andrea hit the door with the knife",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Susan] [V: hit] [ARG1: the door] [ARG2: with the stone]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Susan",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "stone"
+            ]
+        },
+        "sentence": "Susan hit the door with the stone",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Linda] [V: hit] [ARG1: the door] [ARGM-MNR: with the racket]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARGM-MNR",
+                        "I-ARGM-MNR",
+                        "I-ARGM-MNR"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Linda",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "racket"
+            ]
+        },
+        "sentence": "Linda hit the door with the racket",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Martha] [V: hit] [ARG1: the door] [C-ARG1: with the table]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-C-ARG1",
+                        "I-C-ARG1",
+                        "I-C-ARG1"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Martha",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "table"
+            ]
+        },
+        "sentence": "Martha hit the door with the table",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Ellen] [V: hit] [ARG1: the door] [ARG2: with the knife]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Ellen",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "knife"
+            ]
+        },
+        "sentence": "Ellen hit the door with the knife",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Roger] [V: hit] [ARG1: the door] [ARG2: with the table]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Roger",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "table"
+            ]
+        },
+        "sentence": "Roger hit the door with the table",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Alexander] [V: hit] [ARG1: the door] [ARG2: with the bottle]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Alexander",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "bottle"
+            ]
+        },
+        "sentence": "Alexander hit the door with the bottle",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Walter] [V: hit] [ARG1: the door] [ARG2: with the hammer]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Walter",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "hammer"
+            ]
+        },
+        "sentence": "Walter hit the door with the hammer",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Jeff] [V: hit] [ARG1: the door] [ARG2: with the stone]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Jeff",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "stone"
+            ]
+        },
+        "sentence": "Jeff hit the door with the stone",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Janet] [V: hit] [ARG1: the door] [ARG2: with the stone]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Janet",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "stone"
+            ]
+        },
+        "sentence": "Janet hit the door with the stone",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Alexandra] [V: hit] [ARG1: the door] [ARG2: with the bottle]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Alexandra",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "bottle"
+            ]
+        },
+        "sentence": "Alexandra hit the door with the bottle",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Larry] [V: hit] [ARG1: the door] [ARG2: with the chair]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Larry",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "chair"
+            ]
+        },
+        "sentence": "Larry hit the door with the chair",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Ann] [V: hit] [ARG1: the door] [ARG2: with the chair]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Ann",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "chair"
+            ]
+        },
+        "sentence": "Ann hit the door with the chair",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Alice] [V: hit] [ARG1: the door] [ARG2: with the hammer]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Alice",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "hammer"
+            ]
+        },
+        "sentence": "Alice hit the door with the hammer",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Tony] [V: hit] [ARG1: the door] [ARG2: with the knife]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Tony",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "knife"
+            ]
+        },
+        "sentence": "Tony hit the door with the knife",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Jeff] [V: hit] [ARG1: the door] [ARG2: with the chair]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Jeff",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "chair"
+            ]
+        },
+        "sentence": "Jeff hit the door with the chair",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Lauren] [V: hit] [ARG1: the door] [ARG2: with the hammer]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Lauren",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "hammer"
+            ]
+        },
+        "sentence": "Lauren hit the door with the hammer",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Claire] [V: hit] [ARG1: the door] [ARG2: with the stone]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Claire",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "stone"
+            ]
+        },
+        "sentence": "Claire hit the door with the stone",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Edith] [V: hit] [ARG1: the door] [ARG2: with the table]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Edith",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "table"
+            ]
+        },
+        "sentence": "Edith hit the door with the table",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Eleanor] [V: hit] [ARG1: the door] [ARG2: with the bottle]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Eleanor",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "bottle"
+            ]
+        },
+        "sentence": "Eleanor hit the door with the bottle",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Matthew] [V: hit] [ARG1: the door] [ARG2: with the table]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Matthew",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "table"
+            ]
+        },
+        "sentence": "Matthew hit the door with the table",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Billy] [V: hit] [ARG1: the door] [ARG2: with the stone]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Billy",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "stone"
+            ]
+        },
+        "sentence": "Billy hit the door with the stone",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Anne] [V: hit] [ARG1: the door] [ARG2: with the stone]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Anne",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "stone"
+            ]
+        },
+        "sentence": "Anne hit the door with the stone",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Ruth] [V: hit] [ARG1: the door] [ARG2: with the bottle]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Ruth",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "bottle"
+            ]
+        },
+        "sentence": "Ruth hit the door with the bottle",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Deborah] [V: hit] [ARG1: the door] [ARG2: with the stone]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Deborah",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "stone"
+            ]
+        },
+        "sentence": "Deborah hit the door with the stone",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Ashley] [V: hit] [ARG1: the door] [ARGM-MNR: with the racket]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARGM-MNR",
+                        "I-ARGM-MNR",
+                        "I-ARGM-MNR"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Ashley",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "racket"
+            ]
+        },
+        "sentence": "Ashley hit the door with the racket",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Cynthia] [V: hit] [ARG1: the door] [ARG2: with the hammer]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Cynthia",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "hammer"
+            ]
+        },
+        "sentence": "Cynthia hit the door with the hammer",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Judith] [V: hit] [ARG1: the door] [ARG2: with the table]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Judith",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "table"
+            ]
+        },
+        "sentence": "Judith hit the door with the table",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Elaine] [V: hit] [ARG1: the door] [ARG2: with the bottle]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Elaine",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "bottle"
+            ]
+        },
+        "sentence": "Elaine hit the door with the bottle",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: John] [V: hit] [ARG1: the door] [ARGM-MNR: with the racket]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARGM-MNR",
+                        "I-ARGM-MNR",
+                        "I-ARGM-MNR"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "John",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "racket"
+            ]
+        },
+        "sentence": "John hit the door with the racket",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Julia] [V: hit] [ARG1: the door] [ARG2: with the table]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Julia",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "table"
+            ]
+        },
+        "sentence": "Julia hit the door with the table",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Kate] [V: hit] [ARG1: the door] [ARG2: with the hammer]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Kate",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "hammer"
+            ]
+        },
+        "sentence": "Kate hit the door with the hammer",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Gary] [V: hit] [ARG1: the door] [ARGM-MNR: with the racket]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARGM-MNR",
+                        "I-ARGM-MNR",
+                        "I-ARGM-MNR"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Gary",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "racket"
+            ]
+        },
+        "sentence": "Gary hit the door with the racket",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Jimmy] [V: hit] [ARG1: the door] [ARG2: with the bottle]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Jimmy",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "bottle"
+            ]
+        },
+        "sentence": "Jimmy hit the door with the bottle",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Nick] [V: hit] [ARG1: the door] [ARGM-MNR: with the racket]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARGM-MNR",
+                        "I-ARGM-MNR",
+                        "I-ARGM-MNR"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Nick",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "racket"
+            ]
+        },
+        "sentence": "Nick hit the door with the racket",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Arthur] [V: hit] [ARG1: the door] [ARG2: with the table]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Arthur",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "table"
+            ]
+        },
+        "sentence": "Arthur hit the door with the table",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Mary] [V: hit] [ARG1: the door] [ARG2: with the chair]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Mary",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "chair"
+            ]
+        },
+        "sentence": "Mary hit the door with the chair",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Jane] [V: hit] [ARG1: the door] [ARG2: with the table]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Jane",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "table"
+            ]
+        },
+        "sentence": "Jane hit the door with the table",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Scott] [V: hit] [ARG1: the door] [ARG2: with the chair]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Scott",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "chair"
+            ]
+        },
+        "sentence": "Scott hit the door with the chair",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Arthur] [V: hit] [ARG1: the door] [ARG2: with the table]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Arthur",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "table"
+            ]
+        },
+        "sentence": "Arthur hit the door with the table",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Roger] [V: hit] [ARG1: the door] [ARG2: with the knife]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Roger",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "knife"
+            ]
+        },
+        "sentence": "Roger hit the door with the knife",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Mark] [V: hit] [ARG1: the door] [ARG2: with the table]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Mark",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "table"
+            ]
+        },
+        "sentence": "Mark hit the door with the table",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Deborah] [V: hit] [ARG1: the door] [ARG2: with the stone]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Deborah",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "stone"
+            ]
+        },
+        "sentence": "Deborah hit the door with the stone",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Harry] [V: hit] [ARG1: the door] [ARG2: with the table]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Harry",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "table"
+            ]
+        },
+        "sentence": "Harry hit the door with the table",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Jeff] [V: hit] [ARG1: the door] [ARG2: with the knife]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Jeff",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "knife"
+            ]
+        },
+        "sentence": "Jeff hit the door with the knife",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Ruth] [V: hit] [ARG1: the door] [ARG2: with the bottle]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Ruth",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "bottle"
+            ]
+        },
+        "sentence": "Ruth hit the door with the bottle",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Jean] [V: hit] [ARG1: the door] [ARG2: with the bottle]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Jean",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "bottle"
+            ]
+        },
+        "sentence": "Jean hit the door with the bottle",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Ellen] [V: hit] [ARG1: the door] [ARG2: with the chair]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Ellen",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "chair"
+            ]
+        },
+        "sentence": "Ellen hit the door with the chair",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Annie] [V: hit] [ARG1: the door] [ARG2: with the bottle]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Annie",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "bottle"
+            ]
+        },
+        "sentence": "Annie hit the door with the bottle",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Claire] [V: hit] [ARG1: the door] [ARG2: with the knife]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Claire",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "knife"
+            ]
+        },
+        "sentence": "Claire hit the door with the knife",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Arthur] [V: hit] [ARG1: the door] [ARG2: with the hammer]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Arthur",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "hammer"
+            ]
+        },
+        "sentence": "Arthur hit the door with the hammer",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Mark] [V: hit] [ARG1: the door] [ARG2: with the chair]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Mark",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "chair"
+            ]
+        },
+        "sentence": "Mark hit the door with the chair",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Paul] [V: hit] [ARG1: the door] [ARG2: with the table]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Paul",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "table"
+            ]
+        },
+        "sentence": "Paul hit the door with the table",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Alison] [V: hit] [ARG1: the door] [ARG2: with the bottle]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Alison",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "bottle"
+            ]
+        },
+        "sentence": "Alison hit the door with the bottle",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Bobby] [V: hit] [ARG1: the door] [ARG2: with the table]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Bobby",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "table"
+            ]
+        },
+        "sentence": "Bobby hit the door with the table",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Katherine] [V: hit] [ARG1: the door] [ARG2: with the racket]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Katherine",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "racket"
+            ]
+        },
+        "sentence": "Katherine hit the door with the racket",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Sandra] [V: hit] [ARG1: the door] [ARG2: with the table]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Sandra",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "table"
+            ]
+        },
+        "sentence": "Sandra hit the door with the table",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Sam] [V: hit] [ARG1: the door] [ARG2: with the bottle]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Sam",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "bottle"
+            ]
+        },
+        "sentence": "Sam hit the door with the bottle",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Frederick] [V: hit] [ARG1: the door] [ARG2: with the hammer]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Frederick",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "hammer"
+            ]
+        },
+        "sentence": "Frederick hit the door with the hammer",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Judy] [V: hit] [ARG1: the door] [ARG2: with the hammer]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Judy",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "hammer"
+            ]
+        },
+        "sentence": "Judy hit the door with the hammer",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Harry] [V: hit] [ARG1: the door] [ARGM-MNR: with the racket]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARGM-MNR",
+                        "I-ARGM-MNR",
+                        "I-ARGM-MNR"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Harry",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "racket"
+            ]
+        },
+        "sentence": "Harry hit the door with the racket",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Jessica] [V: hit] [ARG1: the door] [ARG2: with the bottle]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Jessica",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "bottle"
+            ]
+        },
+        "sentence": "Jessica hit the door with the bottle",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Kevin] [V: hit] [ARG1: the door] [ARG2: with the chair]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Kevin",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "chair"
+            ]
+        },
+        "sentence": "Kevin hit the door with the chair",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Sue] [V: hit] [ARG1: the door] [ARG2: with the table]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Sue",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "table"
+            ]
+        },
+        "sentence": "Sue hit the door with the table",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Stephanie] [V: hit] [ARG1: the door] [C-ARG1: with the table]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-C-ARG1",
+                        "I-C-ARG1",
+                        "I-C-ARG1"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Stephanie",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "table"
+            ]
+        },
+        "sentence": "Stephanie hit the door with the table",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Alan] [V: hit] [ARG1: the door] [ARGM-MNR: with the racket]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARGM-MNR",
+                        "I-ARGM-MNR",
+                        "I-ARGM-MNR"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Alan",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "racket"
+            ]
+        },
+        "sentence": "Alan hit the door with the racket",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Al] [V: hit] [ARG1: the door] [ARG2: with the table]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Al",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "table"
+            ]
+        },
+        "sentence": "Al hit the door with the table",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Hugh] [V: hit] [ARG1: the door] [ARG2: with the stone]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Hugh",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "stone"
+            ]
+        },
+        "sentence": "Hugh hit the door with the stone",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Alexander] [V: hit] [ARG1: the door] [ARG2: with the stone]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Alexander",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "stone"
+            ]
+        },
+        "sentence": "Alexander hit the door with the stone",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Pamela] [V: hit] [ARG1: the door] [ARGM-MNR: with the racket]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARGM-MNR",
+                        "I-ARGM-MNR",
+                        "I-ARGM-MNR"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Pamela",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "racket"
+            ]
+        },
+        "sentence": "Pamela hit the door with the racket",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Wendy] [V: hit] [ARG1: the door] [ARG2: with the chair]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Wendy",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "chair"
+            ]
+        },
+        "sentence": "Wendy hit the door with the chair",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Hugh] [V: hit] [ARG1: the door] [ARG2: with the chair]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Hugh",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "chair"
+            ]
+        },
+        "sentence": "Hugh hit the door with the chair",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Edith] [V: hit] [ARG1: the door] [ARG2: with the racket]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Edith",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "racket"
+            ]
+        },
+        "sentence": "Edith hit the door with the racket",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Robin] [V: hit] [ARG1: the door] [ARGM-MNR: with the racket]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARGM-MNR",
+                        "I-ARGM-MNR",
+                        "I-ARGM-MNR"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Robin",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "racket"
+            ]
+        },
+        "sentence": "Robin hit the door with the racket",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Katie] [V: hit] [ARG1: the door] [ARGM-MNR: with the racket]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARGM-MNR",
+                        "I-ARGM-MNR",
+                        "I-ARGM-MNR"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Katie",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "racket"
+            ]
+        },
+        "sentence": "Katie hit the door with the racket",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Kelly] [V: hit] [ARG1: the door] [ARG2: with the knife]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Kelly",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "knife"
+            ]
+        },
+        "sentence": "Kelly hit the door with the knife",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Kim] [V: hit] [ARG1: the door] [ARG2: with the stone]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Kim",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "stone"
+            ]
+        },
+        "sentence": "Kim hit the door with the stone",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: James] [V: hit] [ARG1: the door] [C-ARG1: with the table]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-C-ARG1",
+                        "I-C-ARG1",
+                        "I-C-ARG1"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "James",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "table"
+            ]
+        },
+        "sentence": "James hit the door with the table",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Julie] [V: hit] [ARG1: the door] [ARGM-MNR: with the racket]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARGM-MNR",
+                        "I-ARGM-MNR",
+                        "I-ARGM-MNR"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Julie",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "racket"
+            ]
+        },
+        "sentence": "Julie hit the door with the racket",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Chris] [V: hit] [ARG1: the door] [ARG2: with the bottle]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Chris",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "bottle"
+            ]
+        },
+        "sentence": "Chris hit the door with the bottle",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Patrick] [V: hit] [ARG1: the door] [ARG2: with the bottle]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Patrick",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "bottle"
+            ]
+        },
+        "sentence": "Patrick hit the door with the bottle",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Bruce] [V: hit] [ARG1: the door] [ARGM-MNR: with the racket]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARGM-MNR",
+                        "I-ARGM-MNR",
+                        "I-ARGM-MNR"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Bruce",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "racket"
+            ]
+        },
+        "sentence": "Bruce hit the door with the racket",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Greg] [V: hit] [ARG1: the door] [ARG2: with the knife]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Greg",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "knife"
+            ]
+        },
+        "sentence": "Greg hit the door with the knife",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Alexander] [V: hit] [ARG1: the door] [ARG2: with the chair]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Alexander",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "chair"
+            ]
+        },
+        "sentence": "Alexander hit the door with the chair",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Maria] [V: hit] [ARG1: the door] [ARG2: with the bottle]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Maria",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "bottle"
+            ]
+        },
+        "sentence": "Maria hit the door with the bottle",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Frank] [V: hit] [ARG1: the door] [ARG2: with the table]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Frank",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "table"
+            ]
+        },
+        "sentence": "Frank hit the door with the table",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Jonathan] [V: hit] [ARG1: the door] [ARG2: with the hammer]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Jonathan",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "hammer"
+            ]
+        },
+        "sentence": "Jonathan hit the door with the hammer",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Carol] [V: hit] [ARG1: the door] [ARG2: with the stone]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Carol",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "stone"
+            ]
+        },
+        "sentence": "Carol hit the door with the stone",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Eleanor] [V: hit] [ARG1: the door] [ARG2: with the table]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Eleanor",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "table"
+            ]
+        },
+        "sentence": "Eleanor hit the door with the table",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Steven] [V: hit] [ARG1: the door] [C-ARG1: with the table]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-C-ARG1",
+                        "I-C-ARG1",
+                        "I-C-ARG1"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Steven",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "table"
+            ]
+        },
+        "sentence": "Steven hit the door with the table",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Maria] [V: hit] [ARG1: the door] [ARG2: with the knife]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Maria",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "knife"
+            ]
+        },
+        "sentence": "Maria hit the door with the knife",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Jessica] [V: hit] [ARG1: the door] [ARG2: with the chair]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Jessica",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "chair"
+            ]
+        },
+        "sentence": "Jessica hit the door with the chair",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Emma] [V: hit] [ARG1: the door] [ARG2: with the chair]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Emma",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "chair"
+            ]
+        },
+        "sentence": "Emma hit the door with the chair",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Grace] [V: hit] [ARG1: the door] [ARG2: with the hammer]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Grace",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "hammer"
+            ]
+        },
+        "sentence": "Grace hit the door with the hammer",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Dick] [V: hit] [ARG1: the door] [ARG2: with the knife]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Dick",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "knife"
+            ]
+        },
+        "sentence": "Dick hit the door with the knife",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Colin] [V: hit] [ARG1: the door] [C-ARG1: with the table]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-C-ARG1",
+                        "I-C-ARG1",
+                        "I-C-ARG1"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Colin",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "table"
+            ]
+        },
+        "sentence": "Colin hit the door with the table",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": true,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Sam] [V: hit] [ARG1: the door] [ARG2: with the chair]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Sam",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "chair"
+            ]
+        },
+        "sentence": "Sam hit the door with the chair",
+        "testcase_name": "instrument"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Jill] [V: hit] [ARG1: the door] [ARG2: with the window]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Jill",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "window"
+            ]
+        },
+        "sentence": "Jill hit the door with the window",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Mike] [V: hit] [ARG1: the door] [ARG2: with the paint]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Mike",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "paint"
+            ]
+        },
+        "sentence": "Mike hit the door with the paint",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Robin] [V: hit] [ARG1: the door] [ARGM-ADV: with the nameplate]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARGM-ADV",
+                        "I-ARGM-ADV",
+                        "I-ARGM-ADV"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Robin",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "nameplate"
+            ]
+        },
+        "sentence": "Robin hit the door with the nameplate",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Jimmy] [V: hit] [ARG1: the door] [ARGM-COM: with the poster]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARGM-COM",
+                        "I-ARGM-COM",
+                        "I-ARGM-COM"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Jimmy",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "poster"
+            ]
+        },
+        "sentence": "Jimmy hit the door with the poster",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Charles] [V: hit] [ARG1: the door] [ARG2: with the bell]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Charles",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "bell"
+            ]
+        },
+        "sentence": "Charles hit the door with the bell",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Jack] [V: hit] [ARG1: the door] [ARG2: with the holes]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Jack",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "holes"
+            ]
+        },
+        "sentence": "Jack hit the door with the holes",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Angela] [V: hit] [ARG1: the door] [ARG2: with the window]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Angela",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "window"
+            ]
+        },
+        "sentence": "Angela hit the door with the window",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Evelyn] [V: hit] [ARG1: the door] [ARG2: with the paint]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Evelyn",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "paint"
+            ]
+        },
+        "sentence": "Evelyn hit the door with the paint",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Dorothy] [V: hit] [ARG1: the door] [ARG2: with the holes]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Dorothy",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "holes"
+            ]
+        },
+        "sentence": "Dorothy hit the door with the holes",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Benjamin] [V: hit] [ARG1: the door] [ARG2: with the window]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Benjamin",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "window"
+            ]
+        },
+        "sentence": "Benjamin hit the door with the window",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Martin] [V: hit] [ARG1: the door] [ARG2: with the paint]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Martin",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "paint"
+            ]
+        },
+        "sentence": "Martin hit the door with the paint",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Brian] [V: hit] [ARG1: the door] [ARG2: with the nameplate]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Brian",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "nameplate"
+            ]
+        },
+        "sentence": "Brian hit the door with the nameplate",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Alice] [V: hit] [ARG1: the door] [ARG2: with the paint]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Alice",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "paint"
+            ]
+        },
+        "sentence": "Alice hit the door with the paint",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Lisa] [V: hit] [ARG1: the door] [ARG2: with the flag]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Lisa",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "flag"
+            ]
+        },
+        "sentence": "Lisa hit the door with the flag",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Caroline] [V: hit] [ARG1: the door] [ARG2: with the flag]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Caroline",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "flag"
+            ]
+        },
+        "sentence": "Caroline hit the door with the flag",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Ellen] [V: hit] [ARG1: the door] [ARG2: with the bell]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Ellen",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "bell"
+            ]
+        },
+        "sentence": "Ellen hit the door with the bell",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Amanda] [V: hit] [ARG1: the door] [ARG2: with the holes]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Amanda",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "holes"
+            ]
+        },
+        "sentence": "Amanda hit the door with the holes",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Albert] [V: hit] [ARG1: the door] [ARG2: with the holes]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Albert",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "holes"
+            ]
+        },
+        "sentence": "Albert hit the door with the holes",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Howard] [V: hit] [ARG1: the door] [ARG2: with the paint]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Howard",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "paint"
+            ]
+        },
+        "sentence": "Howard hit the door with the paint",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Marie] [V: hit] [ARG1: the door] [ARG2: with the mailbox]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Marie",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "mailbox"
+            ]
+        },
+        "sentence": "Marie hit the door with the mailbox",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Anne] [V: hit] [ARG1: the door] [ARG2: with the window]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Anne",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "window"
+            ]
+        },
+        "sentence": "Anne hit the door with the window",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Sarah] [V: hit] [ARG1: the door] [ARG2: with the mailbox]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Sarah",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "mailbox"
+            ]
+        },
+        "sentence": "Sarah hit the door with the mailbox",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Elaine] [V: hit] [ARG1: the door] [ARGM-ADV: with the poster]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARGM-ADV",
+                        "I-ARGM-ADV",
+                        "I-ARGM-ADV"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Elaine",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "poster"
+            ]
+        },
+        "sentence": "Elaine hit the door with the poster",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Judith] [V: hit] [ARG1: the door] [ARG2: with the paint]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Judith",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "paint"
+            ]
+        },
+        "sentence": "Judith hit the door with the paint",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Kevin] [V: hit] [ARG1: the door] [ARG2: with the window]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Kevin",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "window"
+            ]
+        },
+        "sentence": "Kevin hit the door with the window",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Marilyn] [V: hit] [ARG1: the door] [ARG2: with the bell]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Marilyn",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "bell"
+            ]
+        },
+        "sentence": "Marilyn hit the door with the bell",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Steven] [V: hit] [ARG1: the door] [ARG2: with the holes]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Steven",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "holes"
+            ]
+        },
+        "sentence": "Steven hit the door with the holes",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Elizabeth] [V: hit] [ARG1: the door] [ARG2: with the flag]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Elizabeth",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "flag"
+            ]
+        },
+        "sentence": "Elizabeth hit the door with the flag",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Ed] [V: hit] [ARG1: the door] [ARG2: with the flag]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Ed",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "flag"
+            ]
+        },
+        "sentence": "Ed hit the door with the flag",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Fred] [V: hit] [ARG1: the door] [ARG2: with the bell]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Fred",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "bell"
+            ]
+        },
+        "sentence": "Fred hit the door with the bell",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Steven] [V: hit] [ARG1: the door] [ARGM-ADV: with the bell]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARGM-ADV",
+                        "I-ARGM-ADV",
+                        "I-ARGM-ADV"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Steven",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "bell"
+            ]
+        },
+        "sentence": "Steven hit the door with the bell",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Alan] [V: hit] [ARG1: the door] [ARG2: with the bell]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Alan",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "bell"
+            ]
+        },
+        "sentence": "Alan hit the door with the bell",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Grace] [V: hit] [ARG1: the door] [ARG2: with the flag]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Grace",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "flag"
+            ]
+        },
+        "sentence": "Grace hit the door with the flag",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Ralph] [V: hit] [ARG1: the door] [ARG2: with the paint]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Ralph",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "paint"
+            ]
+        },
+        "sentence": "Ralph hit the door with the paint",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Alexander] [V: hit] [ARG1: the door] [ARG2: with the mailbox]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Alexander",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "mailbox"
+            ]
+        },
+        "sentence": "Alexander hit the door with the mailbox",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Victoria] [V: hit] [ARG1: the door] [ARG2: with the window]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Victoria",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "window"
+            ]
+        },
+        "sentence": "Victoria hit the door with the window",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Stephanie] [V: hit] [ARG1: the door] [ARG2: with the window]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Stephanie",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "window"
+            ]
+        },
+        "sentence": "Stephanie hit the door with the window",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Bruce] [V: hit] [ARG1: the door] [ARG2: with the paint]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Bruce",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "paint"
+            ]
+        },
+        "sentence": "Bruce hit the door with the paint",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Eleanor] [V: hit] [ARG1: the door] [ARG2: with the mailbox]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Eleanor",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "mailbox"
+            ]
+        },
+        "sentence": "Eleanor hit the door with the mailbox",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Charlie] [V: hit] [ARG1: the door] [ARG2: with the mailbox]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Charlie",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "mailbox"
+            ]
+        },
+        "sentence": "Charlie hit the door with the mailbox",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Harold] [V: hit] [ARG1: the door] [ARG2: with the poster]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Harold",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "poster"
+            ]
+        },
+        "sentence": "Harold hit the door with the poster",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Jeff] [V: hit] [ARG1: the door] [ARG2: with the window]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Jeff",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "window"
+            ]
+        },
+        "sentence": "Jeff hit the door with the window",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Lawrence] [V: hit] [ARG1: the door] [ARG2: with the window]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Lawrence",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "window"
+            ]
+        },
+        "sentence": "Lawrence hit the door with the window",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Steven] [V: hit] [ARG1: the door] [ARGM-ADV: with the bell]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARGM-ADV",
+                        "I-ARGM-ADV",
+                        "I-ARGM-ADV"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Steven",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "bell"
+            ]
+        },
+        "sentence": "Steven hit the door with the bell",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Harry] [V: hit] [ARG1: the door] [ARG2: with the window]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Harry",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "window"
+            ]
+        },
+        "sentence": "Harry hit the door with the window",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Benjamin] [V: hit] [ARG1: the door] [ARG2: with the mailbox]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Benjamin",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "mailbox"
+            ]
+        },
+        "sentence": "Benjamin hit the door with the mailbox",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Harry] [V: hit] [ARG1: the door] [ARGM-COM: with the poster]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARGM-COM",
+                        "I-ARGM-COM",
+                        "I-ARGM-COM"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Harry",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "poster"
+            ]
+        },
+        "sentence": "Harry hit the door with the poster",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Ben] [V: hit] [ARG1: the door] [ARG2: with the nameplate]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Ben",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "nameplate"
+            ]
+        },
+        "sentence": "Ben hit the door with the nameplate",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Caroline] [V: hit] [ARG1: the door] [ARG2: with the window]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Caroline",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "window"
+            ]
+        },
+        "sentence": "Caroline hit the door with the window",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Judith] [V: hit] [ARG1: the door] [ARGM-COM: with the poster]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARGM-COM",
+                        "I-ARGM-COM",
+                        "I-ARGM-COM"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Judith",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "poster"
+            ]
+        },
+        "sentence": "Judith hit the door with the poster",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Richard] [V: hit] [ARG1: the door] [ARG2: with the mailbox]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Richard",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "mailbox"
+            ]
+        },
+        "sentence": "Richard hit the door with the mailbox",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Claire] [V: hit] [ARG1: the door] [ARG2: with the window]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Claire",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "window"
+            ]
+        },
+        "sentence": "Claire hit the door with the window",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Tony] [V: hit] [ARG1: the door] [ARG2: with the holes]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Tony",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "holes"
+            ]
+        },
+        "sentence": "Tony hit the door with the holes",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Kenneth] [V: hit] [ARG1: the door] [C-ARG1: with the poster]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-C-ARG1",
+                        "I-C-ARG1",
+                        "I-C-ARG1"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Kenneth",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "poster"
+            ]
+        },
+        "sentence": "Kenneth hit the door with the poster",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Carol] [V: hit] [ARG1: the door] [ARG2: with the mailbox]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Carol",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "mailbox"
+            ]
+        },
+        "sentence": "Carol hit the door with the mailbox",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Sam] [V: hit] [ARG1: the door] [ARG2: with the holes]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Sam",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "holes"
+            ]
+        },
+        "sentence": "Sam hit the door with the holes",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Bob] [V: hit] [ARG1: the door] [C-ARG1: with the poster]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-C-ARG1",
+                        "I-C-ARG1",
+                        "I-C-ARG1"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Bob",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "poster"
+            ]
+        },
+        "sentence": "Bob hit the door with the poster",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Barbara] [V: hit] [ARG1: the door] [ARG2: with the window]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Barbara",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "window"
+            ]
+        },
+        "sentence": "Barbara hit the door with the window",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Peter] [V: hit] [ARG1: the door] [ARG2: with the paint]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Peter",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "paint"
+            ]
+        },
+        "sentence": "Peter hit the door with the paint",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Stephen] [V: hit] [ARG1: the door] [ARG2: with the holes]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Stephen",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "holes"
+            ]
+        },
+        "sentence": "Stephen hit the door with the holes",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Annie] [V: hit] [ARG1: the door] [ARG2: with the window]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Annie",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "window"
+            ]
+        },
+        "sentence": "Annie hit the door with the window",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Alexandra] [V: hit] [ARG1: the door] [ARG2: with the bell]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Alexandra",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "bell"
+            ]
+        },
+        "sentence": "Alexandra hit the door with the bell",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Katie] [V: hit] [ARG1: the door] [ARG2: with the paint]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Katie",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "paint"
+            ]
+        },
+        "sentence": "Katie hit the door with the paint",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Steve] [V: hit] [ARG1: the door] [ARG2: with the paint]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Steve",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "paint"
+            ]
+        },
+        "sentence": "Steve hit the door with the paint",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Alexandra] [V: hit] [ARG1: the door] [ARG2: with the mailbox]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Alexandra",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "mailbox"
+            ]
+        },
+        "sentence": "Alexandra hit the door with the mailbox",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Alfred] [V: hit] [ARG1: the door] [ARG2: with the mailbox]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Alfred",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "mailbox"
+            ]
+        },
+        "sentence": "Alfred hit the door with the mailbox",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Lucy] [V: hit] [ARG1: the door] [ARG2: with the paint]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Lucy",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "paint"
+            ]
+        },
+        "sentence": "Lucy hit the door with the paint",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Al] [V: hit] [ARG1: the door] [ARG2: with the mailbox]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Al",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "mailbox"
+            ]
+        },
+        "sentence": "Al hit the door with the mailbox",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Cynthia] [V: hit] [ARG1: the door] [ARG2: with the mailbox]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Cynthia",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "mailbox"
+            ]
+        },
+        "sentence": "Cynthia hit the door with the mailbox",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Elaine] [V: hit] [ARG1: the door] [ARG2: with the paint]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Elaine",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "paint"
+            ]
+        },
+        "sentence": "Elaine hit the door with the paint",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Jill] [V: hit] [ARG1: the door] [ARG2: with the bell]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Jill",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "bell"
+            ]
+        },
+        "sentence": "Jill hit the door with the bell",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Samuel] [V: hit] [ARG1: the door] [ARG2: with the nameplate]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Samuel",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "nameplate"
+            ]
+        },
+        "sentence": "Samuel hit the door with the nameplate",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Kim] [V: hit] [ARG1: the door] [ARGM-ADV: with the bell]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARGM-ADV",
+                        "I-ARGM-ADV",
+                        "I-ARGM-ADV"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Kim",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "bell"
+            ]
+        },
+        "sentence": "Kim hit the door with the bell",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Donald] [V: hit] [ARG1: the door] [ARG2: with the bell]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Donald",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "bell"
+            ]
+        },
+        "sentence": "Donald hit the door with the bell",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Jeff] [V: hit] [ARG1: the door] [ARGM-MNR: with the nameplate]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARGM-MNR",
+                        "I-ARGM-MNR",
+                        "I-ARGM-MNR"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Jeff",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "nameplate"
+            ]
+        },
+        "sentence": "Jeff hit the door with the nameplate",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Billy] [V: hit] [ARG1: the door] [ARG2: with the nameplate]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Billy",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "nameplate"
+            ]
+        },
+        "sentence": "Billy hit the door with the nameplate",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Cynthia] [V: hit] [ARG1: the door] [ARG2: with the holes]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Cynthia",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "holes"
+            ]
+        },
+        "sentence": "Cynthia hit the door with the holes",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Bill] [V: hit] [ARG1: the door] [C-ARG1: with the poster]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-C-ARG1",
+                        "I-C-ARG1",
+                        "I-C-ARG1"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Bill",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "poster"
+            ]
+        },
+        "sentence": "Bill hit the door with the poster",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Howard] [V: hit] [ARG1: the door] [ARG2: with the window]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Howard",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "window"
+            ]
+        },
+        "sentence": "Howard hit the door with the window",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Philip] [V: hit] [ARG1: the door] [ARG2: with the holes]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Philip",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "holes"
+            ]
+        },
+        "sentence": "Philip hit the door with the holes",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Howard] [V: hit] [ARG1: the door] [ARG2: with the holes]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Howard",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "holes"
+            ]
+        },
+        "sentence": "Howard hit the door with the holes",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Matthew] [V: hit] [ARG1: the door] [ARG2: with the bell]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Matthew",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "bell"
+            ]
+        },
+        "sentence": "Matthew hit the door with the bell",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Emma] [V: hit] [ARG1: the door] [ARG2: with the window]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Emma",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "window"
+            ]
+        },
+        "sentence": "Emma hit the door with the window",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Kelly] [V: hit] [ARG1: the door] [ARG2: with the flag]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Kelly",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "flag"
+            ]
+        },
+        "sentence": "Kelly hit the door with the flag",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Sally] [V: hit] [ARG1: the door] [ARG2: with the mailbox]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Sally",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "mailbox"
+            ]
+        },
+        "sentence": "Sally hit the door with the mailbox",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Laura] [V: hit] [ARG1: the door] [ARG2: with the mailbox]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Laura",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "mailbox"
+            ]
+        },
+        "sentence": "Laura hit the door with the mailbox",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Edith] [V: hit] [ARG1: the door] [ARG2: with the flag]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Edith",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "flag"
+            ]
+        },
+        "sentence": "Edith hit the door with the flag",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Marie] [V: hit] [ARG1: the door] [ARG2: with the nameplate]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Marie",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "nameplate"
+            ]
+        },
+        "sentence": "Marie hit the door with the nameplate",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Samuel] [V: hit] [ARG1: the door] [ARG2: with the window]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Samuel",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "window"
+            ]
+        },
+        "sentence": "Samuel hit the door with the window",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Jack] [V: hit] [ARG1: the door] [ARG2: with the flag]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Jack",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "flag"
+            ]
+        },
+        "sentence": "Jack hit the door with the flag",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Bill] [V: hit] [ARG1: the door] [ARG2: with the bell]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Bill",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "bell"
+            ]
+        },
+        "sentence": "Bill hit the door with the bell",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Billy] [V: hit] [ARG1: the door] [ARG2: with the mailbox]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Billy",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "mailbox"
+            ]
+        },
+        "sentence": "Billy hit the door with the mailbox",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Andrew] [V: hit] [ARG1: the door] [ARG2: with the paint]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Andrew",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "paint"
+            ]
+        },
+        "sentence": "Andrew hit the door with the paint",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Dick] [V: hit] [ARG1: the door] [ARG2: with the flag]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Dick",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "flag"
+            ]
+        },
+        "sentence": "Dick hit the door with the flag",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Edward] [V: hit] [ARG1: the door] [ARG2: with the bell]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Edward",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "bell"
+            ]
+        },
+        "sentence": "Edward hit the door with the bell",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Leslie] [V: hit] [ARG1: the door] [ARG2: with the paint]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Leslie",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "paint"
+            ]
+        },
+        "sentence": "Leslie hit the door with the paint",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Peter] [V: hit] [ARG1: the door] [ARG2: with the nameplate]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARG2",
+                        "I-ARG2",
+                        "I-ARG2"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Peter",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "nameplate"
+            ]
+        },
+        "sentence": "Peter hit the door with the nameplate",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Mark] [V: hit] [ARG1: the door] [ARGM-ADV: with the poster]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARGM-ADV",
+                        "I-ARGM-ADV",
+                        "I-ARGM-ADV"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Mark",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "poster"
+            ]
+        },
+        "sentence": "Mark hit the door with the poster",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Joan] [V: hit] [ARG1: the door] [ARGM-COM: with the poster]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARGM-COM",
+                        "I-ARGM-COM",
+                        "I-ARGM-COM"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Joan",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "poster"
+            ]
+        },
+        "sentence": "Joan hit the door with the poster",
+        "testcase_name": "patient"
+    },
+    {
+        "capability": "instrument_recognition",
+        "confs": 1.0,
+        "passed": false,
+        "preds": {
+            "verbs": [
+                {
+                    "description": "[ARG0: Eric] [V: hit] [ARG1: the door] [ARGM-COM: with the poster]",
+                    "tags": [
+                        "B-ARG0",
+                        "B-V",
+                        "B-ARG1",
+                        "I-ARG1",
+                        "B-ARGM-COM",
+                        "I-ARGM-COM",
+                        "I-ARGM-COM"
+                    ],
+                    "verb": "hit"
+                }
+            ],
+            "words": [
+                "Eric",
+                "hit",
+                "the",
+                "door",
+                "with",
+                "the",
+                "poster"
+            ]
+        },
+        "sentence": "Eric hit the door with the poster",
+        "testcase_name": "patient"
+    }
+]
